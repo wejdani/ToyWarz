@@ -96,6 +96,31 @@ AnimatorState:
   m_MirrorParameter: 
   m_CycleOffsetParameter: 
   m_TimeParameter: 
+--- !u!1102 &1102288566434696768
+AnimatorState:
+  serializedVersion: 5
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: AngelTeddyBellydancing
+  m_Speed: 1
+  m_CycleOffset: 0
+  m_Transitions: []
+  m_StateMachineBehaviours: []
+  m_Position: {x: 50, y: 50, z: 0}
+  m_IKOnFeet: 0
+  m_WriteDefaultValues: 1
+  m_Mirror: 0
+  m_SpeedParameterActive: 0
+  m_MirrorParameterActive: 0
+  m_CycleOffsetParameterActive: 0
+  m_TimeParameterActive: 0
+  m_Motion: {fileID: 7400000, guid: ee0d8088635af4554bd2ed2130b3501e, type: 2}
+  m_Tag: 
+  m_SpeedParameter: 
+  m_MirrorParameter: 
+  m_CycleOffsetParameter: 
+  m_TimeParameter: 
 --- !u!1102 &1102352282812980806
 AnimatorState:
   serializedVersion: 5
@@ -331,7 +356,7 @@ AnimatorStateMachine:
   m_ChildStates:
   - serializedVersion: 1
     m_State: {fileID: 1102641936841781490}
-    m_Position: {x: 295.99716, y: 251.81898, z: 0}
+    m_Position: {x: 252, y: 156, z: 0}
   - serializedVersion: 1
     m_State: {fileID: 1102076247723134228}
     m_Position: {x: 210.75, y: 243, z: 0}
@@ -365,6 +390,9 @@ AnimatorStateMachine:
   - serializedVersion: 1
     m_State: {fileID: 1102264348641554006}
     m_Position: {x: 96.75, y: 305, z: 0}
+  - serializedVersion: 1
+    m_State: {fileID: 1102288566434696768}
+    m_Position: {x: 78.21512, y: 245.76083, z: 0}
   m_ChildStateMachines: []
   m_AnyStateTransitions: []
   m_EntryTransitions: []
