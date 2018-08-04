@@ -1,0 +1,2726 @@
+fileFormatVersion: 2
+guid: 72b328bf5a4b3a844be37d07f89e1617
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Auge_L
+    100002: Auge_L1
+    100004: Auge_L2
+    100006: Auge_L3
+    100008: Auge_L4
+    100010: Auge_L6
+    100012: Auge_L7
+    100014: Auge_L8
+    100016: Auge_R
+    100018: Ball
+    100020: base
+    100022: becher
+    100024: becher1
+    100026: becher2
+    100028: bed
+    100030: birne
+    100032: Blatt01
+    100034: Blatt02
+    100036: Blatt03
+    100038: Blatt04
+    100040: Blatt05
+    100042: Blatt06
+    100044: BodenLicht
+    100046: Body_smooth
+    100048: borders
+    100050: brush
+    100052: buch
+    100054: Buch01
+    100056: Buch010
+    100058: Buch02
+    100060: Buch03
+    100062: Buch04
+    100064: Buch05
+    100066: Buch06
+    100068: Buch07
+    100070: Buch08
+    100072: Buch09
+    100074: buch1
+    100076: buch2
+    100078: buch3
+    100080: camera1
+    100082: chair
+    100084: chest
+    100086: Collider
+    100088: Collider1
+    100090: Decke_Base
+    100092: Decke_DONTTOUCH
+    100094: Decke_Smooth
+    100096: Decke_Wrap
+    100098: deckel
+    100100: desk
+    100102: door
+    100104: DunkelUntermBett
+    100106: Farbtopf01
+    100108: Farbtopf02
+    100110: Farbtopf03
+    100112: Farbtopf04
+    100114: Farbtopf05
+    100116: Farbtopf06
+    100118: Farbtopf07
+    100120: Fassung
+    100122: fassung
+    100124: fassung 1
+    100126: Fenster
+    100128: Fenster1
+    100130: Gardine_base
+    100132: GardineL
+    100134: Gardinenstange
+    100136: GardineR
+    100138: Glas
+    100140: glas
+    100142: glas 1
+    100144: glas 2
+    100146: griff
+    100148: griff 1
+    100150: Griff1
+    100152: griff1
+    100154: Griff2
+    100156: group1
+    100158: group10
+    100160: group11
+    100162: group13
+    100164: group14
+    100166: group15
+    100168: group2
+    100170: group3
+    100172: group4
+    100174: group5
+    100176: group6
+    100178: group7
+    100180: group8
+    100182: group9
+    100184: Halstuch_smooth
+    100186: Halstuchhalter
+    100188: hand_l_smooth
+    100190: Hand_r_smooth
+    100192: Head_baseCPSproxy1
+    100194: heating
+    100196: Himmel
+    100198: Jack
+    100200: Kissen_Base
+    100202: Kissen_SMooth
+    100204: Laken_Smooth
+    100206: lamp
+    100208: Lampe
+    100210: LampenSchatten
+    100212: lights
+    100214: lightswitch
+    100216: Lok
+    100218: Lok1
+    100220: Mammut
+    100222: Mammut1
+    100224: mohawkDeepRed1Main
+    100226: mohawkDeepRed1MeshGroup
+    100228: Mond
+    100230: MondLicht_M
+    100232: MondLicht_O1
+    100234: MondLichtO
+    100236: MOnster_eye_Ctrl
+    100238: Monster_eyes
+    100240: Murmel01
+    100242: Murmel010
+    100244: Murmel011
+    100246: Murmel012
+    100248: Murmel02
+    100250: Murmel03
+    100252: Murmel04
+    100254: Murmel05
+    100256: Murmel06
+    100258: Murmel07
+    100260: Murmel08
+    100262: Murmel09
+    100264: Murmelbecher
+    100266: Nadel01
+    100268: Nadel010
+    100270: Nadel011
+    100272: Nadel02
+    100274: Nadel03
+    100276: Nadel04
+    100278: Nadel05
+    100280: Nadel06
+    100282: Nadel07
+    100284: Nadel08
+    100286: Nadel09
+    100288: nightdesk
+    100290: nurbsPlane1
+    100292: nurbsToPoly1
+    100294: nurbsToPoly1 1
+    100296: nurbsToPoly1 2
+    100298: nurbsToPoly1 3
+    100300: nurbsToPoly1 4
+    100302: nurbsToPoly1 5
+    100304: nurbsToPoly10
+    100306: nurbsToPoly10 1
+    100308: nurbsToPoly10 2
+    100310: nurbsToPoly11
+    100312: nurbsToPoly11 1
+    100314: nurbsToPoly11 2
+    100316: nurbsToPoly12
+    100318: nurbsToPoly12 1
+    100320: nurbsToPoly12 2
+    100322: nurbsToPoly13
+    100324: nurbsToPoly13 1
+    100326: nurbsToPoly13 2
+    100328: nurbsToPoly14
+    100330: nurbsToPoly14 1
+    100332: nurbsToPoly14 2
+    100334: nurbsToPoly15
+    100336: nurbsToPoly15 1
+    100338: nurbsToPoly15 2
+    100340: nurbsToPoly16
+    100342: nurbsToPoly16 1
+    100344: nurbsToPoly16 2
+    100346: nurbsToPoly16 3
+    100348: nurbsToPoly17
+    100350: nurbsToPoly17 1
+    100352: nurbsToPoly17 2
+    100354: nurbsToPoly17 3
+    100356: nurbsToPoly18
+    100358: nurbsToPoly18 1
+    100360: nurbsToPoly18 2
+    100362: nurbsToPoly18 3
+    100364: nurbsToPoly19
+    100366: nurbsToPoly19 1
+    100368: nurbsToPoly19 2
+    100370: nurbsToPoly19 3
+    100372: nurbsToPoly2
+    100374: nurbsToPoly2 1
+    100376: nurbsToPoly2 2
+    100378: nurbsToPoly20
+    100380: nurbsToPoly20 1
+    100382: nurbsToPoly20 2
+    100384: nurbsToPoly21
+    100386: nurbsToPoly21 1
+    100388: nurbsToPoly22
+    100390: nurbsToPoly22 1
+    100392: nurbsToPoly23
+    100394: nurbsToPoly23 1
+    100396: nurbsToPoly24
+    100398: nurbsToPoly24 1
+    100400: nurbsToPoly24 2
+    100402: nurbsToPoly25
+    100404: nurbsToPoly26
+    100406: nurbsToPoly27
+    100408: nurbsToPoly28
+    100410: nurbsToPoly3
+    100412: nurbsToPoly3 1
+    100414: nurbsToPoly3 2
+    100416: nurbsToPoly4
+    100418: nurbsToPoly4 1
+    100420: nurbsToPoly4 2
+    100422: nurbsToPoly5
+    100424: nurbsToPoly5 1
+    100426: nurbsToPoly5 2
+    100428: nurbsToPoly6
+    100430: nurbsToPoly6 1
+    100432: nurbsToPoly6 2
+    100434: nurbsToPoly7
+    100436: nurbsToPoly7 1
+    100438: nurbsToPoly7 2
+    100440: nurbsToPoly8
+    100442: nurbsToPoly8 1
+    100444: nurbsToPoly8 2
+    100446: nurbsToPoly9
+    100448: nurbsToPoly9 1
+    100450: nurbsToPoly9 2
+    100452: Papierkorb
+    100454: pCube1
+    100456: pCube10
+    100458: pCube11
+    100460: pCube12
+    100462: pCube13
+    100464: pCube14
+    100466: pCube16
+    100468: pCube17
+    100470: pCube18
+    100472: pCube19
+    100474: pCube19 1
+    100476: pCube19 2
+    100478: pCube19 3
+    100480: pCube2
+    100482: pCube20
+    100484: pCube21
+    100486: pCube22
+    100488: pCube23
+    100490: pCube24
+    100492: pCube25
+    100494: pCube26
+    100496: pCube27
+    100498: pCube3
+    100500: pCube30
+    100502: pCube31
+    100504: pCube32
+    100506: pCube33
+    100508: pCube34
+    100510: pCube35
+    100512: pCube36
+    100514: pCube37
+    100516: pCube38
+    100518: pCube39
+    100520: pCube3CPSproxy1
+    100522: pCube3CPSunite1
+    100524: pCube4
+    100526: pCube40
+    100528: pCube41
+    100530: pCube42
+    100532: pCube43
+    100534: pCube43 1
+    100536: pCube44
+    100538: pCube45
+    100540: pCube46
+    100542: pCube47
+    100544: pCube48
+    100546: pCube49
+    100548: pCube5
+    100550: pCube50
+    100552: pCube51
+    100554: pCube52
+    100556: pCube53
+    100558: pCube54
+    100560: pCube55
+    100562: pCube56
+    100564: pCube57
+    100566: pCube58
+    100568: pCube59CPSunite1
+    100570: pCube6
+    100572: pCube7
+    100574: pCube8
+    100576: pCube9
+    100578: pCylinder1
+    100580: pCylinder10
+    100582: pCylinder11
+    100584: pCylinder12
+    100586: pCylinder13
+    100588: pCylinder14
+    100590: pCylinder15
+    100592: pCylinder16
+    100594: pCylinder17
+    100596: pCylinder18
+    100598: pCylinder19
+    100600: pCylinder19 1
+    100602: pCylinder19 10
+    100604: pCylinder19 11
+    100606: pCylinder19 2
+    100608: pCylinder19 3
+    100610: pCylinder19 4
+    100612: pCylinder19 5
+    100614: pCylinder19 6
+    100616: pCylinder19 7
+    100618: pCylinder19 8
+    100620: pCylinder19 9
+    100622: pCylinder2
+    100624: pCylinder20
+    100626: pCylinder21
+    100628: pCylinder22
+    100630: pCylinder23
+    100632: pCylinder24
+    100634: pCylinder25
+    100636: pCylinder26
+    100638: pCylinder27
+    100640: pCylinder28
+    100642: pCylinder29
+    100644: pCylinder3
+    100646: pCylinder30
+    100648: pCylinder31
+    100650: pCylinder32
+    100652: pCylinder33
+    100654: pCylinder34
+    100656: pCylinder35
+    100658: pCylinder36
+    100660: pCylinder37
+    100662: pCylinder38
+    100664: pCylinder39
+    100666: pCylinder4
+    100668: pCylinder40
+    100670: pCylinder41
+    100672: pCylinder42
+    100674: pCylinder43
+    100676: pCylinder44
+    100678: pCylinder45
+    100680: pCylinder46
+    100682: pCylinder47
+    100684: pCylinder48
+    100686: pCylinder49
+    100688: pCylinder5
+    100690: pCylinder5 1
+    100692: pCylinder50
+    100694: pCylinder51
+    100696: pCylinder52
+    100698: pCylinder53
+    100700: pCylinder54
+    100702: pCylinder55
+    100704: pCylinder56
+    100706: pCylinder57
+    100708: pCylinder57 1
+    100710: pCylinder58
+    100712: pCylinder58 1
+    100714: pCylinder59
+    100716: pCylinder59 1
+    100718: pCylinder6
+    100720: pCylinder60
+    100722: pCylinder60 1
+    100724: pCylinder61
+    100726: pCylinder61 1
+    100728: pCylinder62
+    100730: pCylinder62 1
+    100732: pCylinder63
+    100734: pCylinder64
+    100736: pCylinder65
+    100738: pCylinder66
+    100740: pCylinder7
+    100742: pCylinder8
+    100744: pCylinder9
+    100746: Pinsel01
+    100748: Pinsel010
+    100750: Pinsel011
+    100752: Pinsel02
+    100754: Pinsel03
+    100756: Pinsel04
+    100758: Pinsel05
+    100760: Pinsel06
+    100762: Pinsel07
+    100764: Pinsel08
+    100766: Pinsel09
+    100768: place3dTexture1
+    100770: place3dTexture2
+    100772: place3dTexture3
+    100774: place3dTexture4
+    100776: place3dTexture6
+    100778: pointLight1
+    100780: pointLight10
+    100782: pointLight11
+    100784: pointLight12
+    100786: pointLight14
+    100788: pointLight15
+    100790: pointLight3
+    100792: pointLight5
+    100794: pointLight6
+    100796: pointLight7
+    100798: pointLight9
+    100800: polySurface10
+    100802: polySurface11
+    100804: polySurface12
+    100806: polySurface13
+    100808: polySurface14
+    100810: polySurface15
+    100812: polySurface16
+    100814: polySurface17
+    100816: polySurface2
+    100818: polySurface20
+    100820: polySurface21
+    100822: polySurface22
+    100824: polySurface23
+    100826: polySurface24
+    100828: polySurface25
+    100830: polySurface26
+    100832: polySurface27
+    100834: polySurface28
+    100836: polySurface29
+    100838: polySurface3
+    100840: polySurface30
+    100842: polySurface31
+    100844: polySurface33
+    100846: polySurface34
+    100848: polySurface35
+    100850: polySurface36
+    100852: polySurface37
+    100854: polySurface39
+    100856: polySurface39 1
+    100858: polySurface4
+    100860: polySurface4 1
+    100862: polySurface40
+    100864: polySurface41
+    100866: polySurface5
+    100868: polySurface5 1
+    100870: polySurface6
+    100872: polySurface7
+    100874: polySurface8
+    100876: polySurface9
+    100878: porster
+    100880: pPlane1
+    100882: pPlane2
+    100884: pPlane4
+    100886: pPlane5
+    100888: pPlane6
+    100890: pPlane7
+    100892: pPlane8
+    100894: pSphere1
+    100896: pSphere1 1
+    100898: pSphere2
+    100900: pSphere2 1
+    100902: pSphere3
+    100904: pSphere4
+    100906: pSphere5
+    100908: pSphere5 1
+    100910: pSphere5 10
+    100912: pSphere5 2
+    100914: pSphere5 3
+    100916: pSphere5 4
+    100918: pSphere5 5
+    100920: pSphere5 6
+    100922: pSphere5 7
+    100924: pSphere5 8
+    100926: pSphere5 9
+    100928: pSphere6
+    100930: pSphere7
+    100932: pTorus1
+    100934: pTorus1 1
+    100936: pTorus10
+    100938: pTorus11
+    100940: pTorus12
+    100942: pTorus13
+    100944: pTorus14
+    100946: pTorus15
+    100948: pTorus16
+    100950: pTorus17
+    100952: pTorus18
+    100954: pTorus19
+    100956: pTorus2
+    100958: pTorus2 1
+    100960: pTorus20
+    100962: pTorus21
+    100964: pTorus22
+    100966: pTorus23
+    100968: pTorus24
+    100970: pTorus25
+    100972: pTorus26
+    100974: pTorus27
+    100976: pTorus28
+    100978: pTorus29
+    100980: pTorus3
+    100982: pTorus3 1
+    100984: pTorus30
+    100986: pTorus31
+    100988: pTorus32
+    100990: pTorus33
+    100992: pTorus34
+    100994: pTorus35
+    100996: pTorus36
+    100998: pTorus37
+    101000: pTorus38
+    101002: pTorus38 1
+    101004: pTorus39
+    101006: pTorus39 1
+    101008: pTorus4
+    101010: pTorus4 1
+    101012: pTorus40
+    101014: pTorus40 1
+    101016: pTorus41
+    101018: pTorus41 1
+    101020: pTorus42
+    101022: pTorus42 1
+    101024: pTorus43
+    101026: pTorus43 1
+    101028: pTorus5
+    101030: pTorus5 1
+    101032: pTorus6
+    101034: pTorus6 1
+    101036: pTorus7
+    101038: pTorus7 1
+    101040: pTorus8
+    101042: pTorus8 1
+    101044: pTorus9
+    101046: pTorus9 1
+    101048: Pulli
+    101050: rahmen
+    101052: rahmen 1
+    101054: raum
+    101056: RaumPulli
+    101058: RaumSocke
+    101060: RaumSocke02
+    101062: room
+    101064: room 1
+    101066: //RootNode
+    101068: Scharnier
+    101070: Scharnier 1
+    101072: Scharnier1
+    101074: Scharnier1 1
+    101076: Schirm
+    101078: Schrank
+    101080: Schreibtischbelag
+    101082: SchreibtischLampe
+    101084: Schrim
+    101086: Schulheft
+    101088: Schulheft1
+    101090: Schulheft2
+    101092: Schulheft3
+    101094: Schulheft4
+    101096: Schulyeug
+    101098: shoe_l_smooth
+    101100: shoe_r_smooth
+    101102: Socke
+    101104: Socke1
+    101106: spotLight4
+    101108: Steckdose
+    101110: syCloth90ShapeTrf
+    101112: Teppich
+    101114: Tron_Bike_B
+    101116: Tron_Bike_R
+    101118: Tuer
+    101120: Unterlage
+    101122: volumeLight13
+    101124: wandboard
+    101126: window
+    101128: Wuerfel01
+    101130: Wuerfel02
+    101132: Zeichenbecher
+    400000: Auge_L
+    400002: Auge_L1
+    400004: Auge_L2
+    400006: Auge_L3
+    400008: Auge_L4
+    400010: Auge_L6
+    400012: Auge_L7
+    400014: Auge_L8
+    400016: Auge_R
+    400018: Ball
+    400020: base
+    400022: becher
+    400024: becher1
+    400026: becher2
+    400028: bed
+    400030: birne
+    400032: Blatt01
+    400034: Blatt02
+    400036: Blatt03
+    400038: Blatt04
+    400040: Blatt05
+    400042: Blatt06
+    400044: BodenLicht
+    400046: Body_smooth
+    400048: borders
+    400050: brush
+    400052: buch
+    400054: Buch01
+    400056: Buch010
+    400058: Buch02
+    400060: Buch03
+    400062: Buch04
+    400064: Buch05
+    400066: Buch06
+    400068: Buch07
+    400070: Buch08
+    400072: Buch09
+    400074: buch1
+    400076: buch2
+    400078: buch3
+    400080: camera1
+    400082: chair
+    400084: chest
+    400086: Collider
+    400088: Collider1
+    400090: Decke_Base
+    400092: Decke_DONTTOUCH
+    400094: Decke_Smooth
+    400096: Decke_Wrap
+    400098: deckel
+    400100: desk
+    400102: door
+    400104: DunkelUntermBett
+    400106: Farbtopf01
+    400108: Farbtopf02
+    400110: Farbtopf03
+    400112: Farbtopf04
+    400114: Farbtopf05
+    400116: Farbtopf06
+    400118: Farbtopf07
+    400120: Fassung
+    400122: fassung
+    400124: fassung 1
+    400126: Fenster
+    400128: Fenster1
+    400130: Gardine_base
+    400132: GardineL
+    400134: Gardinenstange
+    400136: GardineR
+    400138: Glas
+    400140: glas
+    400142: glas 1
+    400144: glas 2
+    400146: griff
+    400148: griff 1
+    400150: Griff1
+    400152: griff1
+    400154: Griff2
+    400156: group1
+    400158: group10
+    400160: group11
+    400162: group13
+    400164: group14
+    400166: group15
+    400168: group2
+    400170: group3
+    400172: group4
+    400174: group5
+    400176: group6
+    400178: group7
+    400180: group8
+    400182: group9
+    400184: Halstuch_smooth
+    400186: Halstuchhalter
+    400188: hand_l_smooth
+    400190: Hand_r_smooth
+    400192: Head_baseCPSproxy1
+    400194: heating
+    400196: Himmel
+    400198: Jack
+    400200: Kissen_Base
+    400202: Kissen_SMooth
+    400204: Laken_Smooth
+    400206: lamp
+    400208: Lampe
+    400210: LampenSchatten
+    400212: lights
+    400214: lightswitch
+    400216: Lok
+    400218: Lok1
+    400220: Mammut
+    400222: Mammut1
+    400224: mohawkDeepRed1Main
+    400226: mohawkDeepRed1MeshGroup
+    400228: Mond
+    400230: MondLicht_M
+    400232: MondLicht_O1
+    400234: MondLichtO
+    400236: MOnster_eye_Ctrl
+    400238: Monster_eyes
+    400240: Murmel01
+    400242: Murmel010
+    400244: Murmel011
+    400246: Murmel012
+    400248: Murmel02
+    400250: Murmel03
+    400252: Murmel04
+    400254: Murmel05
+    400256: Murmel06
+    400258: Murmel07
+    400260: Murmel08
+    400262: Murmel09
+    400264: Murmelbecher
+    400266: Nadel01
+    400268: Nadel010
+    400270: Nadel011
+    400272: Nadel02
+    400274: Nadel03
+    400276: Nadel04
+    400278: Nadel05
+    400280: Nadel06
+    400282: Nadel07
+    400284: Nadel08
+    400286: Nadel09
+    400288: nightdesk
+    400290: nurbsPlane1
+    400292: nurbsToPoly1
+    400294: nurbsToPoly1 1
+    400296: nurbsToPoly1 2
+    400298: nurbsToPoly1 3
+    400300: nurbsToPoly1 4
+    400302: nurbsToPoly1 5
+    400304: nurbsToPoly10
+    400306: nurbsToPoly10 1
+    400308: nurbsToPoly10 2
+    400310: nurbsToPoly11
+    400312: nurbsToPoly11 1
+    400314: nurbsToPoly11 2
+    400316: nurbsToPoly12
+    400318: nurbsToPoly12 1
+    400320: nurbsToPoly12 2
+    400322: nurbsToPoly13
+    400324: nurbsToPoly13 1
+    400326: nurbsToPoly13 2
+    400328: nurbsToPoly14
+    400330: nurbsToPoly14 1
+    400332: nurbsToPoly14 2
+    400334: nurbsToPoly15
+    400336: nurbsToPoly15 1
+    400338: nurbsToPoly15 2
+    400340: nurbsToPoly16
+    400342: nurbsToPoly16 1
+    400344: nurbsToPoly16 2
+    400346: nurbsToPoly16 3
+    400348: nurbsToPoly17
+    400350: nurbsToPoly17 1
+    400352: nurbsToPoly17 2
+    400354: nurbsToPoly17 3
+    400356: nurbsToPoly18
+    400358: nurbsToPoly18 1
+    400360: nurbsToPoly18 2
+    400362: nurbsToPoly18 3
+    400364: nurbsToPoly19
+    400366: nurbsToPoly19 1
+    400368: nurbsToPoly19 2
+    400370: nurbsToPoly19 3
+    400372: nurbsToPoly2
+    400374: nurbsToPoly2 1
+    400376: nurbsToPoly2 2
+    400378: nurbsToPoly20
+    400380: nurbsToPoly20 1
+    400382: nurbsToPoly20 2
+    400384: nurbsToPoly21
+    400386: nurbsToPoly21 1
+    400388: nurbsToPoly22
+    400390: nurbsToPoly22 1
+    400392: nurbsToPoly23
+    400394: nurbsToPoly23 1
+    400396: nurbsToPoly24
+    400398: nurbsToPoly24 1
+    400400: nurbsToPoly24 2
+    400402: nurbsToPoly25
+    400404: nurbsToPoly26
+    400406: nurbsToPoly27
+    400408: nurbsToPoly28
+    400410: nurbsToPoly3
+    400412: nurbsToPoly3 1
+    400414: nurbsToPoly3 2
+    400416: nurbsToPoly4
+    400418: nurbsToPoly4 1
+    400420: nurbsToPoly4 2
+    400422: nurbsToPoly5
+    400424: nurbsToPoly5 1
+    400426: nurbsToPoly5 2
+    400428: nurbsToPoly6
+    400430: nurbsToPoly6 1
+    400432: nurbsToPoly6 2
+    400434: nurbsToPoly7
+    400436: nurbsToPoly7 1
+    400438: nurbsToPoly7 2
+    400440: nurbsToPoly8
+    400442: nurbsToPoly8 1
+    400444: nurbsToPoly8 2
+    400446: nurbsToPoly9
+    400448: nurbsToPoly9 1
+    400450: nurbsToPoly9 2
+    400452: Papierkorb
+    400454: pCube1
+    400456: pCube10
+    400458: pCube11
+    400460: pCube12
+    400462: pCube13
+    400464: pCube14
+    400466: pCube16
+    400468: pCube17
+    400470: pCube18
+    400472: pCube19
+    400474: pCube19 1
+    400476: pCube19 2
+    400478: pCube19 3
+    400480: pCube2
+    400482: pCube20
+    400484: pCube21
+    400486: pCube22
+    400488: pCube23
+    400490: pCube24
+    400492: pCube25
+    400494: pCube26
+    400496: pCube27
+    400498: pCube3
+    400500: pCube30
+    400502: pCube31
+    400504: pCube32
+    400506: pCube33
+    400508: pCube34
+    400510: pCube35
+    400512: pCube36
+    400514: pCube37
+    400516: pCube38
+    400518: pCube39
+    400520: pCube3CPSproxy1
+    400522: pCube3CPSunite1
+    400524: pCube4
+    400526: pCube40
+    400528: pCube41
+    400530: pCube42
+    400532: pCube43
+    400534: pCube43 1
+    400536: pCube44
+    400538: pCube45
+    400540: pCube46
+    400542: pCube47
+    400544: pCube48
+    400546: pCube49
+    400548: pCube5
+    400550: pCube50
+    400552: pCube51
+    400554: pCube52
+    400556: pCube53
+    400558: pCube54
+    400560: pCube55
+    400562: pCube56
+    400564: pCube57
+    400566: pCube58
+    400568: pCube59CPSunite1
+    400570: pCube6
+    400572: pCube7
+    400574: pCube8
+    400576: pCube9
+    400578: pCylinder1
+    400580: pCylinder10
+    400582: pCylinder11
+    400584: pCylinder12
+    400586: pCylinder13
+    400588: pCylinder14
+    400590: pCylinder15
+    400592: pCylinder16
+    400594: pCylinder17
+    400596: pCylinder18
+    400598: pCylinder19
+    400600: pCylinder19 1
+    400602: pCylinder19 10
+    400604: pCylinder19 11
+    400606: pCylinder19 2
+    400608: pCylinder19 3
+    400610: pCylinder19 4
+    400612: pCylinder19 5
+    400614: pCylinder19 6
+    400616: pCylinder19 7
+    400618: pCylinder19 8
+    400620: pCylinder19 9
+    400622: pCylinder2
+    400624: pCylinder20
+    400626: pCylinder21
+    400628: pCylinder22
+    400630: pCylinder23
+    400632: pCylinder24
+    400634: pCylinder25
+    400636: pCylinder26
+    400638: pCylinder27
+    400640: pCylinder28
+    400642: pCylinder29
+    400644: pCylinder3
+    400646: pCylinder30
+    400648: pCylinder31
+    400650: pCylinder32
+    400652: pCylinder33
+    400654: pCylinder34
+    400656: pCylinder35
+    400658: pCylinder36
+    400660: pCylinder37
+    400662: pCylinder38
+    400664: pCylinder39
+    400666: pCylinder4
+    400668: pCylinder40
+    400670: pCylinder41
+    400672: pCylinder42
+    400674: pCylinder43
+    400676: pCylinder44
+    400678: pCylinder45
+    400680: pCylinder46
+    400682: pCylinder47
+    400684: pCylinder48
+    400686: pCylinder49
+    400688: pCylinder5
+    400690: pCylinder5 1
+    400692: pCylinder50
+    400694: pCylinder51
+    400696: pCylinder52
+    400698: pCylinder53
+    400700: pCylinder54
+    400702: pCylinder55
+    400704: pCylinder56
+    400706: pCylinder57
+    400708: pCylinder57 1
+    400710: pCylinder58
+    400712: pCylinder58 1
+    400714: pCylinder59
+    400716: pCylinder59 1
+    400718: pCylinder6
+    400720: pCylinder60
+    400722: pCylinder60 1
+    400724: pCylinder61
+    400726: pCylinder61 1
+    400728: pCylinder62
+    400730: pCylinder62 1
+    400732: pCylinder63
+    400734: pCylinder64
+    400736: pCylinder65
+    400738: pCylinder66
+    400740: pCylinder7
+    400742: pCylinder8
+    400744: pCylinder9
+    400746: Pinsel01
+    400748: Pinsel010
+    400750: Pinsel011
+    400752: Pinsel02
+    400754: Pinsel03
+    400756: Pinsel04
+    400758: Pinsel05
+    400760: Pinsel06
+    400762: Pinsel07
+    400764: Pinsel08
+    400766: Pinsel09
+    400768: place3dTexture1
+    400770: place3dTexture2
+    400772: place3dTexture3
+    400774: place3dTexture4
+    400776: place3dTexture6
+    400778: pointLight1
+    400780: pointLight10
+    400782: pointLight11
+    400784: pointLight12
+    400786: pointLight14
+    400788: pointLight15
+    400790: pointLight3
+    400792: pointLight5
+    400794: pointLight6
+    400796: pointLight7
+    400798: pointLight9
+    400800: polySurface10
+    400802: polySurface11
+    400804: polySurface12
+    400806: polySurface13
+    400808: polySurface14
+    400810: polySurface15
+    400812: polySurface16
+    400814: polySurface17
+    400816: polySurface2
+    400818: polySurface20
+    400820: polySurface21
+    400822: polySurface22
+    400824: polySurface23
+    400826: polySurface24
+    400828: polySurface25
+    400830: polySurface26
+    400832: polySurface27
+    400834: polySurface28
+    400836: polySurface29
+    400838: polySurface3
+    400840: polySurface30
+    400842: polySurface31
+    400844: polySurface33
+    400846: polySurface34
+    400848: polySurface35
+    400850: polySurface36
+    400852: polySurface37
+    400854: polySurface39
+    400856: polySurface39 1
+    400858: polySurface4
+    400860: polySurface4 1
+    400862: polySurface40
+    400864: polySurface41
+    400866: polySurface5
+    400868: polySurface5 1
+    400870: polySurface6
+    400872: polySurface7
+    400874: polySurface8
+    400876: polySurface9
+    400878: porster
+    400880: pPlane1
+    400882: pPlane2
+    400884: pPlane4
+    400886: pPlane5
+    400888: pPlane6
+    400890: pPlane7
+    400892: pPlane8
+    400894: pSphere1
+    400896: pSphere1 1
+    400898: pSphere2
+    400900: pSphere2 1
+    400902: pSphere3
+    400904: pSphere4
+    400906: pSphere5
+    400908: pSphere5 1
+    400910: pSphere5 10
+    400912: pSphere5 2
+    400914: pSphere5 3
+    400916: pSphere5 4
+    400918: pSphere5 5
+    400920: pSphere5 6
+    400922: pSphere5 7
+    400924: pSphere5 8
+    400926: pSphere5 9
+    400928: pSphere6
+    400930: pSphere7
+    400932: pTorus1
+    400934: pTorus1 1
+    400936: pTorus10
+    400938: pTorus11
+    400940: pTorus12
+    400942: pTorus13
+    400944: pTorus14
+    400946: pTorus15
+    400948: pTorus16
+    400950: pTorus17
+    400952: pTorus18
+    400954: pTorus19
+    400956: pTorus2
+    400958: pTorus2 1
+    400960: pTorus20
+    400962: pTorus21
+    400964: pTorus22
+    400966: pTorus23
+    400968: pTorus24
+    400970: pTorus25
+    400972: pTorus26
+    400974: pTorus27
+    400976: pTorus28
+    400978: pTorus29
+    400980: pTorus3
+    400982: pTorus3 1
+    400984: pTorus30
+    400986: pTorus31
+    400988: pTorus32
+    400990: pTorus33
+    400992: pTorus34
+    400994: pTorus35
+    400996: pTorus36
+    400998: pTorus37
+    401000: pTorus38
+    401002: pTorus38 1
+    401004: pTorus39
+    401006: pTorus39 1
+    401008: pTorus4
+    401010: pTorus4 1
+    401012: pTorus40
+    401014: pTorus40 1
+    401016: pTorus41
+    401018: pTorus41 1
+    401020: pTorus42
+    401022: pTorus42 1
+    401024: pTorus43
+    401026: pTorus43 1
+    401028: pTorus5
+    401030: pTorus5 1
+    401032: pTorus6
+    401034: pTorus6 1
+    401036: pTorus7
+    401038: pTorus7 1
+    401040: pTorus8
+    401042: pTorus8 1
+    401044: pTorus9
+    401046: pTorus9 1
+    401048: Pulli
+    401050: rahmen
+    401052: rahmen 1
+    401054: raum
+    401056: RaumPulli
+    401058: RaumSocke
+    401060: RaumSocke02
+    401062: room
+    401064: room 1
+    401066: //RootNode
+    401068: Scharnier
+    401070: Scharnier 1
+    401072: Scharnier1
+    401074: Scharnier1 1
+    401076: Schirm
+    401078: Schrank
+    401080: Schreibtischbelag
+    401082: SchreibtischLampe
+    401084: Schrim
+    401086: Schulheft
+    401088: Schulheft1
+    401090: Schulheft2
+    401092: Schulheft3
+    401094: Schulheft4
+    401096: Schulyeug
+    401098: shoe_l_smooth
+    401100: shoe_r_smooth
+    401102: Socke
+    401104: Socke1
+    401106: spotLight4
+    401108: Steckdose
+    401110: syCloth90ShapeTrf
+    401112: Teppich
+    401114: Tron_Bike_B
+    401116: Tron_Bike_R
+    401118: Tuer
+    401120: Unterlage
+    401122: volumeLight13
+    401124: wandboard
+    401126: window
+    401128: Wuerfel01
+    401130: Wuerfel02
+    401132: Zeichenbecher
+    2000000: camera1
+    2100000: lambert1
+    2100002: Augen
+    2100004: Raum_BettGestell
+    2100006: blinn1
+    2100008: Raum_BettSticker
+    2100010: BaseScene_dunkel_Raum_Bettdecke
+    2100012: BaseScene_dunkel_Raum_BettLaken
+    2100014: BaseScene_dunkel_Raum_Socken02
+    2100016: Raum_Schrank
+    2100018: Raum_Stift_5
+    2100020: Raum_Stift_6
+    2100022: Raum_Stift_2
+    2100024: Raum_Stift_4
+    2100026: Raum_Schrank1
+    2100028: Raum_Schreibtisch
+    2100030: Raum_SchreibtischSchubladen
+    2100032: Raum_Stift_3
+    2100034: Raum_Stift_1
+    2100036: Raum_Buch03
+    2100038: Raum_Buch06
+    2100040: Raum_Buch05
+    2100042: Raum_Buch07
+    2100044: Jack_Stiefel
+    2100046: Raum_Glasmurmeln
+    2100048: Raum_Schreib_Unterlage
+    2100050: Raum_Zeichnung05
+    2100052: Raum_Zeichnung06
+    2100054: Raum_Zeichnung02
+    2100056: Raum_Zeichnung03
+    2100058: Raum_Zeichnung04
+    2100060: Raum_Becher
+    2100062: Raum_Heizung
+    2100064: Raum_Stift_7
+    2100066: Raum_StuhlMammut
+    2100068: Raum_Zeichnung01
+    2100070: Raum_Chrom
+    2100072: Raum_Metall_Lampe
+    2100074: Raum_Plaste_weiss
+    2100076: Raum_Farbtpfe
+    2100078: Raum_Buch02
+    2100080: Raum_Buch04
+    2100082: Raum_Buch01
+    2100084: Raum_Zeichnung07
+    2100086: Raum_Glass
+    2100088: Raum_Holzbahn
+    2100090: Raum_Gardine
+    2100092: Raum_Stuhl_Leder
+    2100094: Raum_Stuhl_Chrom
+    2100096: BaseScene_dunkel_Raum_KLeidung01
+    2100098: BaseScene_dunkel_Raum_Socken01
+    2100100: Raum_Poster1
+    2100102: Raum_Poster2
+    2100104: Raum_Poster3
+    2100106: Raum_Truhe
+    2100108: Raum_Truhe_Ohne
+    2100110: Raum_Tuer1
+    2100112: Raum_Tuer
+    2100114: Jack_Hand
+    2100116: "Jack_K\u0650rper"
+    2100118: Jack_Kopf
+    2100120: BaseScene_dunkel_Raum_KLeidung03
+    2100122: Raum_StuhlMammut1
+    2100124: Raum_DeckenLampe
+    2100126: phongE10
+    2100128: Raum_Mondlampe
+    2100130: Tron_Rot
+    2100132: Tron_Schwarz
+    2100134: Tron_Blau
+    2100136: BaseScene_dunkel_Raum_teppich
+    2100138: Raum_Sterne
+    2100140: Raum_Mond
+    2100142: "BaseScene_dunkel_Raum_W\xFCrfel"
+    2100144: Raum_Ball
+    2100146: BaseScene_dunkel_Raum_KLeidung02
+    2100148: Raum_TapeteWand
+    2100150: Raum_TapeteDecke
+    2100152: Raum_Boden
+    2100154: Raum_Besen
+    2100156: Raum_besen
+    2300000: Auge_L
+    2300002: Auge_L1
+    2300004: Auge_L2
+    2300006: Auge_L3
+    2300008: Auge_L4
+    2300010: Auge_L6
+    2300012: Auge_L7
+    2300014: Auge_L8
+    2300016: Auge_R
+    2300018: Ball
+    2300020: becher
+    2300022: becher1
+    2300024: becher2
+    2300026: Blatt01
+    2300028: Blatt02
+    2300030: Blatt03
+    2300032: Blatt04
+    2300034: Blatt05
+    2300036: Blatt06
+    2300038: Body_smooth
+    2300040: buch
+    2300042: Buch01
+    2300044: Buch010
+    2300046: Buch02
+    2300048: Buch03
+    2300050: Buch04
+    2300052: Buch05
+    2300054: Buch06
+    2300056: Buch07
+    2300058: Buch08
+    2300060: Buch09
+    2300062: buch1
+    2300064: buch2
+    2300066: buch3
+    2300068: Collider
+    2300070: Collider1
+    2300072: Decke_Base
+    2300074: Decke_Smooth
+    2300076: Farbtopf01
+    2300078: Farbtopf02
+    2300080: Farbtopf03
+    2300082: Farbtopf04
+    2300084: Farbtopf05
+    2300086: Farbtopf06
+    2300088: Farbtopf07
+    2300090: Fassung
+    2300092: fassung
+    2300094: fassung 1
+    2300096: Gardine_base
+    2300098: GardineL
+    2300100: GardineR
+    2300102: Glas
+    2300104: glas
+    2300106: glas 1
+    2300108: glas 2
+    2300110: griff
+    2300112: griff 1
+    2300114: griff1
+    2300116: Halstuch_smooth
+    2300118: Halstuchhalter
+    2300120: hand_l_smooth
+    2300122: Hand_r_smooth
+    2300124: Head_baseCPSproxy1
+    2300126: Himmel
+    2300128: Kissen_Base
+    2300130: Kissen_SMooth
+    2300132: Laken_Smooth
+    2300134: mohawkDeepRed1Main
+    2300136: Mond
+    2300138: Murmel01
+    2300140: Murmel010
+    2300142: Murmel011
+    2300144: Murmel012
+    2300146: Murmel02
+    2300148: Murmel03
+    2300150: Murmel04
+    2300152: Murmel05
+    2300154: Murmel06
+    2300156: Murmel07
+    2300158: Murmel08
+    2300160: Murmel09
+    2300162: Nadel01
+    2300164: Nadel010
+    2300166: Nadel011
+    2300168: Nadel02
+    2300170: Nadel03
+    2300172: Nadel04
+    2300174: Nadel05
+    2300176: Nadel06
+    2300178: Nadel07
+    2300180: Nadel08
+    2300182: Nadel09
+    2300184: nurbsToPoly1
+    2300186: nurbsToPoly1 1
+    2300188: nurbsToPoly1 2
+    2300190: nurbsToPoly1 3
+    2300192: nurbsToPoly1 4
+    2300194: nurbsToPoly1 5
+    2300196: nurbsToPoly10
+    2300198: nurbsToPoly10 1
+    2300200: nurbsToPoly10 2
+    2300202: nurbsToPoly11
+    2300204: nurbsToPoly11 1
+    2300206: nurbsToPoly11 2
+    2300208: nurbsToPoly12
+    2300210: nurbsToPoly12 1
+    2300212: nurbsToPoly12 2
+    2300214: nurbsToPoly13
+    2300216: nurbsToPoly13 1
+    2300218: nurbsToPoly13 2
+    2300220: nurbsToPoly14
+    2300222: nurbsToPoly14 1
+    2300224: nurbsToPoly14 2
+    2300226: nurbsToPoly15
+    2300228: nurbsToPoly15 1
+    2300230: nurbsToPoly15 2
+    2300232: nurbsToPoly16
+    2300234: nurbsToPoly16 1
+    2300236: nurbsToPoly16 2
+    2300238: nurbsToPoly16 3
+    2300240: nurbsToPoly17
+    2300242: nurbsToPoly17 1
+    2300244: nurbsToPoly17 2
+    2300246: nurbsToPoly17 3
+    2300248: nurbsToPoly18
+    2300250: nurbsToPoly18 1
+    2300252: nurbsToPoly18 2
+    2300254: nurbsToPoly18 3
+    2300256: nurbsToPoly19
+    2300258: nurbsToPoly19 1
+    2300260: nurbsToPoly19 2
+    2300262: nurbsToPoly19 3
+    2300264: nurbsToPoly2
+    2300266: nurbsToPoly2 1
+    2300268: nurbsToPoly2 2
+    2300270: nurbsToPoly20
+    2300272: nurbsToPoly20 1
+    2300274: nurbsToPoly20 2
+    2300276: nurbsToPoly21
+    2300278: nurbsToPoly21 1
+    2300280: nurbsToPoly22
+    2300282: nurbsToPoly22 1
+    2300284: nurbsToPoly23
+    2300286: nurbsToPoly23 1
+    2300288: nurbsToPoly24
+    2300290: nurbsToPoly24 1
+    2300292: nurbsToPoly24 2
+    2300294: nurbsToPoly25
+    2300296: nurbsToPoly26
+    2300298: nurbsToPoly27
+    2300300: nurbsToPoly28
+    2300302: nurbsToPoly3
+    2300304: nurbsToPoly3 1
+    2300306: nurbsToPoly3 2
+    2300308: nurbsToPoly4
+    2300310: nurbsToPoly4 1
+    2300312: nurbsToPoly4 2
+    2300314: nurbsToPoly5
+    2300316: nurbsToPoly5 1
+    2300318: nurbsToPoly5 2
+    2300320: nurbsToPoly6
+    2300322: nurbsToPoly6 1
+    2300324: nurbsToPoly6 2
+    2300326: nurbsToPoly7
+    2300328: nurbsToPoly7 1
+    2300330: nurbsToPoly7 2
+    2300332: nurbsToPoly8
+    2300334: nurbsToPoly8 1
+    2300336: nurbsToPoly8 2
+    2300338: nurbsToPoly9
+    2300340: nurbsToPoly9 1
+    2300342: nurbsToPoly9 2
+    2300344: Papierkorb
+    2300346: pCube1
+    2300348: pCube10
+    2300350: pCube11
+    2300352: pCube12
+    2300354: pCube13
+    2300356: pCube14
+    2300358: pCube16
+    2300360: pCube17
+    2300362: pCube18
+    2300364: pCube19
+    2300366: pCube19 1
+    2300368: pCube19 2
+    2300370: pCube19 3
+    2300372: pCube2
+    2300374: pCube20
+    2300376: pCube21
+    2300378: pCube22
+    2300380: pCube23
+    2300382: pCube24
+    2300384: pCube25
+    2300386: pCube26
+    2300388: pCube27
+    2300390: pCube3
+    2300392: pCube30
+    2300394: pCube31
+    2300396: pCube32
+    2300398: pCube33
+    2300400: pCube34
+    2300402: pCube35
+    2300404: pCube36
+    2300406: pCube37
+    2300408: pCube38
+    2300410: pCube39
+    2300412: pCube3CPSproxy1
+    2300414: pCube3CPSunite1
+    2300416: pCube4
+    2300418: pCube40
+    2300420: pCube41
+    2300422: pCube42
+    2300424: pCube43
+    2300426: pCube43 1
+    2300428: pCube44
+    2300430: pCube45
+    2300432: pCube46
+    2300434: pCube47
+    2300436: pCube48
+    2300438: pCube49
+    2300440: pCube5
+    2300442: pCube50
+    2300444: pCube51
+    2300446: pCube52
+    2300448: pCube53
+    2300450: pCube54
+    2300452: pCube55
+    2300454: pCube56
+    2300456: pCube57
+    2300458: pCube58
+    2300460: pCube59CPSunite1
+    2300462: pCube6
+    2300464: pCube7
+    2300466: pCube8
+    2300468: pCube9
+    2300470: pCylinder1
+    2300472: pCylinder10
+    2300474: pCylinder11
+    2300476: pCylinder12
+    2300478: pCylinder13
+    2300480: pCylinder14
+    2300482: pCylinder15
+    2300484: pCylinder16
+    2300486: pCylinder17
+    2300488: pCylinder18
+    2300490: pCylinder19
+    2300492: pCylinder19 1
+    2300494: pCylinder19 10
+    2300496: pCylinder19 11
+    2300498: pCylinder19 2
+    2300500: pCylinder19 3
+    2300502: pCylinder19 4
+    2300504: pCylinder19 5
+    2300506: pCylinder19 6
+    2300508: pCylinder19 7
+    2300510: pCylinder19 8
+    2300512: pCylinder19 9
+    2300514: pCylinder2
+    2300516: pCylinder20
+    2300518: pCylinder21
+    2300520: pCylinder22
+    2300522: pCylinder23
+    2300524: pCylinder24
+    2300526: pCylinder25
+    2300528: pCylinder26
+    2300530: pCylinder27
+    2300532: pCylinder28
+    2300534: pCylinder29
+    2300536: pCylinder3
+    2300538: pCylinder30
+    2300540: pCylinder31
+    2300542: pCylinder32
+    2300544: pCylinder33
+    2300546: pCylinder34
+    2300548: pCylinder35
+    2300550: pCylinder36
+    2300552: pCylinder37
+    2300554: pCylinder38
+    2300556: pCylinder39
+    2300558: pCylinder4
+    2300560: pCylinder40
+    2300562: pCylinder41
+    2300564: pCylinder42
+    2300566: pCylinder43
+    2300568: pCylinder44
+    2300570: pCylinder45
+    2300572: pCylinder46
+    2300574: pCylinder47
+    2300576: pCylinder48
+    2300578: pCylinder49
+    2300580: pCylinder5
+    2300582: pCylinder5 1
+    2300584: pCylinder50
+    2300586: pCylinder51
+    2300588: pCylinder52
+    2300590: pCylinder53
+    2300592: pCylinder54
+    2300594: pCylinder55
+    2300596: pCylinder56
+    2300598: pCylinder57
+    2300600: pCylinder57 1
+    2300602: pCylinder58
+    2300604: pCylinder58 1
+    2300606: pCylinder59
+    2300608: pCylinder59 1
+    2300610: pCylinder6
+    2300612: pCylinder60
+    2300614: pCylinder60 1
+    2300616: pCylinder61
+    2300618: pCylinder61 1
+    2300620: pCylinder62
+    2300622: pCylinder62 1
+    2300624: pCylinder63
+    2300626: pCylinder64
+    2300628: pCylinder65
+    2300630: pCylinder66
+    2300632: pCylinder7
+    2300634: pCylinder8
+    2300636: pCylinder9
+    2300638: polySurface10
+    2300640: polySurface11
+    2300642: polySurface12
+    2300644: polySurface13
+    2300646: polySurface14
+    2300648: polySurface15
+    2300650: polySurface16
+    2300652: polySurface17
+    2300654: polySurface2
+    2300656: polySurface20
+    2300658: polySurface21
+    2300660: polySurface22
+    2300662: polySurface23
+    2300664: polySurface24
+    2300666: polySurface25
+    2300668: polySurface26
+    2300670: polySurface27
+    2300672: polySurface28
+    2300674: polySurface29
+    2300676: polySurface3
+    2300678: polySurface30
+    2300680: polySurface31
+    2300682: polySurface33
+    2300684: polySurface34
+    2300686: polySurface35
+    2300688: polySurface36
+    2300690: polySurface37
+    2300692: polySurface39
+    2300694: polySurface39 1
+    2300696: polySurface4
+    2300698: polySurface4 1
+    2300700: polySurface40
+    2300702: polySurface41
+    2300704: polySurface5
+    2300706: polySurface5 1
+    2300708: polySurface6
+    2300710: polySurface7
+    2300712: polySurface8
+    2300714: polySurface9
+    2300716: pPlane1
+    2300718: pPlane2
+    2300720: pPlane4
+    2300722: pPlane5
+    2300724: pPlane6
+    2300726: pPlane7
+    2300728: pPlane8
+    2300730: pSphere1
+    2300732: pSphere1 1
+    2300734: pSphere2
+    2300736: pSphere2 1
+    2300738: pSphere3
+    2300740: pSphere4
+    2300742: pSphere5
+    2300744: pSphere5 1
+    2300746: pSphere5 10
+    2300748: pSphere5 2
+    2300750: pSphere5 3
+    2300752: pSphere5 4
+    2300754: pSphere5 5
+    2300756: pSphere5 6
+    2300758: pSphere5 7
+    2300760: pSphere5 8
+    2300762: pSphere5 9
+    2300764: pSphere6
+    2300766: pSphere7
+    2300768: pTorus1
+    2300770: pTorus1 1
+    2300772: pTorus10
+    2300774: pTorus11
+    2300776: pTorus12
+    2300778: pTorus13
+    2300780: pTorus14
+    2300782: pTorus15
+    2300784: pTorus16
+    2300786: pTorus17
+    2300788: pTorus18
+    2300790: pTorus19
+    2300792: pTorus2
+    2300794: pTorus2 1
+    2300796: pTorus20
+    2300798: pTorus21
+    2300800: pTorus22
+    2300802: pTorus23
+    2300804: pTorus24
+    2300806: pTorus25
+    2300808: pTorus26
+    2300810: pTorus27
+    2300812: pTorus28
+    2300814: pTorus29
+    2300816: pTorus3
+    2300818: pTorus3 1
+    2300820: pTorus30
+    2300822: pTorus31
+    2300824: pTorus32
+    2300826: pTorus33
+    2300828: pTorus34
+    2300830: pTorus35
+    2300832: pTorus36
+    2300834: pTorus37
+    2300836: pTorus38
+    2300838: pTorus38 1
+    2300840: pTorus39
+    2300842: pTorus39 1
+    2300844: pTorus4
+    2300846: pTorus4 1
+    2300848: pTorus40
+    2300850: pTorus40 1
+    2300852: pTorus41
+    2300854: pTorus41 1
+    2300856: pTorus42
+    2300858: pTorus42 1
+    2300860: pTorus43
+    2300862: pTorus43 1
+    2300864: pTorus5
+    2300866: pTorus5 1
+    2300868: pTorus6
+    2300870: pTorus6 1
+    2300872: pTorus7
+    2300874: pTorus7 1
+    2300876: pTorus8
+    2300878: pTorus8 1
+    2300880: pTorus9
+    2300882: pTorus9 1
+    2300884: Pulli
+    2300886: rahmen
+    2300888: rahmen 1
+    2300890: RaumPulli
+    2300892: RaumSocke
+    2300894: RaumSocke02
+    2300896: Scharnier
+    2300898: Scharnier 1
+    2300900: Scharnier1
+    2300902: Scharnier1 1
+    2300904: Schirm
+    2300906: Schrim
+    2300908: Schulheft
+    2300910: Schulheft1
+    2300912: Schulheft2
+    2300914: Schulheft3
+    2300916: Schulheft4
+    2300918: shoe_l_smooth
+    2300920: shoe_r_smooth
+    2300922: Socke
+    2300924: Socke1
+    2300926: Steckdose
+    2300928: syCloth90ShapeTrf
+    2300930: Teppich
+    2300932: Unterlage
+    2300934: Wuerfel01
+    2300936: Wuerfel02
+    3300000: Auge_L
+    3300002: Auge_L1
+    3300004: Auge_L2
+    3300006: Auge_L3
+    3300008: Auge_L4
+    3300010: Auge_L6
+    3300012: Auge_L7
+    3300014: Auge_L8
+    3300016: Auge_R
+    3300018: Ball
+    3300020: becher
+    3300022: becher1
+    3300024: becher2
+    3300026: Blatt01
+    3300028: Blatt02
+    3300030: Blatt03
+    3300032: Blatt04
+    3300034: Blatt05
+    3300036: Blatt06
+    3300038: Body_smooth
+    3300040: buch
+    3300042: Buch01
+    3300044: Buch010
+    3300046: Buch02
+    3300048: Buch03
+    3300050: Buch04
+    3300052: Buch05
+    3300054: Buch06
+    3300056: Buch07
+    3300058: Buch08
+    3300060: Buch09
+    3300062: buch1
+    3300064: buch2
+    3300066: buch3
+    3300068: Collider
+    3300070: Collider1
+    3300072: Decke_Base
+    3300074: Decke_Smooth
+    3300076: Farbtopf01
+    3300078: Farbtopf02
+    3300080: Farbtopf03
+    3300082: Farbtopf04
+    3300084: Farbtopf05
+    3300086: Farbtopf06
+    3300088: Farbtopf07
+    3300090: Fassung
+    3300092: fassung
+    3300094: fassung 1
+    3300096: Gardine_base
+    3300098: GardineL
+    3300100: GardineR
+    3300102: Glas
+    3300104: glas
+    3300106: glas 1
+    3300108: glas 2
+    3300110: griff
+    3300112: griff 1
+    3300114: griff1
+    3300116: Halstuch_smooth
+    3300118: Halstuchhalter
+    3300120: hand_l_smooth
+    3300122: Hand_r_smooth
+    3300124: Head_baseCPSproxy1
+    3300126: Himmel
+    3300128: Kissen_Base
+    3300130: Kissen_SMooth
+    3300132: Laken_Smooth
+    3300134: mohawkDeepRed1Main
+    3300136: Mond
+    3300138: Murmel01
+    3300140: Murmel010
+    3300142: Murmel011
+    3300144: Murmel012
+    3300146: Murmel02
+    3300148: Murmel03
+    3300150: Murmel04
+    3300152: Murmel05
+    3300154: Murmel06
+    3300156: Murmel07
+    3300158: Murmel08
+    3300160: Murmel09
+    3300162: Nadel01
+    3300164: Nadel010
+    3300166: Nadel011
+    3300168: Nadel02
+    3300170: Nadel03
+    3300172: Nadel04
+    3300174: Nadel05
+    3300176: Nadel06
+    3300178: Nadel07
+    3300180: Nadel08
+    3300182: Nadel09
+    3300184: nurbsToPoly1
+    3300186: nurbsToPoly1 1
+    3300188: nurbsToPoly1 2
+    3300190: nurbsToPoly1 3
+    3300192: nurbsToPoly1 4
+    3300194: nurbsToPoly1 5
+    3300196: nurbsToPoly10
+    3300198: nurbsToPoly10 1
+    3300200: nurbsToPoly10 2
+    3300202: nurbsToPoly11
+    3300204: nurbsToPoly11 1
+    3300206: nurbsToPoly11 2
+    3300208: nurbsToPoly12
+    3300210: nurbsToPoly12 1
+    3300212: nurbsToPoly12 2
+    3300214: nurbsToPoly13
+    3300216: nurbsToPoly13 1
+    3300218: nurbsToPoly13 2
+    3300220: nurbsToPoly14
+    3300222: nurbsToPoly14 1
+    3300224: nurbsToPoly14 2
+    3300226: nurbsToPoly15
+    3300228: nurbsToPoly15 1
+    3300230: nurbsToPoly15 2
+    3300232: nurbsToPoly16
+    3300234: nurbsToPoly16 1
+    3300236: nurbsToPoly16 2
+    3300238: nurbsToPoly16 3
+    3300240: nurbsToPoly17
+    3300242: nurbsToPoly17 1
+    3300244: nurbsToPoly17 2
+    3300246: nurbsToPoly17 3
+    3300248: nurbsToPoly18
+    3300250: nurbsToPoly18 1
+    3300252: nurbsToPoly18 2
+    3300254: nurbsToPoly18 3
+    3300256: nurbsToPoly19
+    3300258: nurbsToPoly19 1
+    3300260: nurbsToPoly19 2
+    3300262: nurbsToPoly19 3
+    3300264: nurbsToPoly2
+    3300266: nurbsToPoly2 1
+    3300268: nurbsToPoly2 2
+    3300270: nurbsToPoly20
+    3300272: nurbsToPoly20 1
+    3300274: nurbsToPoly20 2
+    3300276: nurbsToPoly21
+    3300278: nurbsToPoly21 1
+    3300280: nurbsToPoly22
+    3300282: nurbsToPoly22 1
+    3300284: nurbsToPoly23
+    3300286: nurbsToPoly23 1
+    3300288: nurbsToPoly24
+    3300290: nurbsToPoly24 1
+    3300292: nurbsToPoly24 2
+    3300294: nurbsToPoly25
+    3300296: nurbsToPoly26
+    3300298: nurbsToPoly27
+    3300300: nurbsToPoly28
+    3300302: nurbsToPoly3
+    3300304: nurbsToPoly3 1
+    3300306: nurbsToPoly3 2
+    3300308: nurbsToPoly4
+    3300310: nurbsToPoly4 1
+    3300312: nurbsToPoly4 2
+    3300314: nurbsToPoly5
+    3300316: nurbsToPoly5 1
+    3300318: nurbsToPoly5 2
+    3300320: nurbsToPoly6
+    3300322: nurbsToPoly6 1
+    3300324: nurbsToPoly6 2
+    3300326: nurbsToPoly7
+    3300328: nurbsToPoly7 1
+    3300330: nurbsToPoly7 2
+    3300332: nurbsToPoly8
+    3300334: nurbsToPoly8 1
+    3300336: nurbsToPoly8 2
+    3300338: nurbsToPoly9
+    3300340: nurbsToPoly9 1
+    3300342: nurbsToPoly9 2
+    3300344: Papierkorb
+    3300346: pCube1
+    3300348: pCube10
+    3300350: pCube11
+    3300352: pCube12
+    3300354: pCube13
+    3300356: pCube14
+    3300358: pCube16
+    3300360: pCube17
+    3300362: pCube18
+    3300364: pCube19
+    3300366: pCube19 1
+    3300368: pCube19 2
+    3300370: pCube19 3
+    3300372: pCube2
+    3300374: pCube20
+    3300376: pCube21
+    3300378: pCube22
+    3300380: pCube23
+    3300382: pCube24
+    3300384: pCube25
+    3300386: pCube26
+    3300388: pCube27
+    3300390: pCube3
+    3300392: pCube30
+    3300394: pCube31
+    3300396: pCube32
+    3300398: pCube33
+    3300400: pCube34
+    3300402: pCube35
+    3300404: pCube36
+    3300406: pCube37
+    3300408: pCube38
+    3300410: pCube39
+    3300412: pCube3CPSproxy1
+    3300414: pCube3CPSunite1
+    3300416: pCube4
+    3300418: pCube40
+    3300420: pCube41
+    3300422: pCube42
+    3300424: pCube43
+    3300426: pCube43 1
+    3300428: pCube44
+    3300430: pCube45
+    3300432: pCube46
+    3300434: pCube47
+    3300436: pCube48
+    3300438: pCube49
+    3300440: pCube5
+    3300442: pCube50
+    3300444: pCube51
+    3300446: pCube52
+    3300448: pCube53
+    3300450: pCube54
+    3300452: pCube55
+    3300454: pCube56
+    3300456: pCube57
+    3300458: pCube58
+    3300460: pCube59CPSunite1
+    3300462: pCube6
+    3300464: pCube7
+    3300466: pCube8
+    3300468: pCube9
+    3300470: pCylinder1
+    3300472: pCylinder10
+    3300474: pCylinder11
+    3300476: pCylinder12
+    3300478: pCylinder13
+    3300480: pCylinder14
+    3300482: pCylinder15
+    3300484: pCylinder16
+    3300486: pCylinder17
+    3300488: pCylinder18
+    3300490: pCylinder19
+    3300492: pCylinder19 1
+    3300494: pCylinder19 10
+    3300496: pCylinder19 11
+    3300498: pCylinder19 2
+    3300500: pCylinder19 3
+    3300502: pCylinder19 4
+    3300504: pCylinder19 5
+    3300506: pCylinder19 6
+    3300508: pCylinder19 7
+    3300510: pCylinder19 8
+    3300512: pCylinder19 9
+    3300514: pCylinder2
+    3300516: pCylinder20
+    3300518: pCylinder21
+    3300520: pCylinder22
+    3300522: pCylinder23
+    3300524: pCylinder24
+    3300526: pCylinder25
+    3300528: pCylinder26
+    3300530: pCylinder27
+    3300532: pCylinder28
+    3300534: pCylinder29
+    3300536: pCylinder3
+    3300538: pCylinder30
+    3300540: pCylinder31
+    3300542: pCylinder32
+    3300544: pCylinder33
+    3300546: pCylinder34
+    3300548: pCylinder35
+    3300550: pCylinder36
+    3300552: pCylinder37
+    3300554: pCylinder38
+    3300556: pCylinder39
+    3300558: pCylinder4
+    3300560: pCylinder40
+    3300562: pCylinder41
+    3300564: pCylinder42
+    3300566: pCylinder43
+    3300568: pCylinder44
+    3300570: pCylinder45
+    3300572: pCylinder46
+    3300574: pCylinder47
+    3300576: pCylinder48
+    3300578: pCylinder49
+    3300580: pCylinder5
+    3300582: pCylinder5 1
+    3300584: pCylinder50
+    3300586: pCylinder51
+    3300588: pCylinder52
+    3300590: pCylinder53
+    3300592: pCylinder54
+    3300594: pCylinder55
+    3300596: pCylinder56
+    3300598: pCylinder57
+    3300600: pCylinder57 1
+    3300602: pCylinder58
+    3300604: pCylinder58 1
+    3300606: pCylinder59
+    3300608: pCylinder59 1
+    3300610: pCylinder6
+    3300612: pCylinder60
+    3300614: pCylinder60 1
+    3300616: pCylinder61
+    3300618: pCylinder61 1
+    3300620: pCylinder62
+    3300622: pCylinder62 1
+    3300624: pCylinder63
+    3300626: pCylinder64
+    3300628: pCylinder65
+    3300630: pCylinder66
+    3300632: pCylinder7
+    3300634: pCylinder8
+    3300636: pCylinder9
+    3300638: polySurface10
+    3300640: polySurface11
+    3300642: polySurface12
+    3300644: polySurface13
+    3300646: polySurface14
+    3300648: polySurface15
+    3300650: polySurface16
+    3300652: polySurface17
+    3300654: polySurface2
+    3300656: polySurface20
+    3300658: polySurface21
+    3300660: polySurface22
+    3300662: polySurface23
+    3300664: polySurface24
+    3300666: polySurface25
+    3300668: polySurface26
+    3300670: polySurface27
+    3300672: polySurface28
+    3300674: polySurface29
+    3300676: polySurface3
+    3300678: polySurface30
+    3300680: polySurface31
+    3300682: polySurface33
+    3300684: polySurface34
+    3300686: polySurface35
+    3300688: polySurface36
+    3300690: polySurface37
+    3300692: polySurface39
+    3300694: polySurface39 1
+    3300696: polySurface4
+    3300698: polySurface4 1
+    3300700: polySurface40
+    3300702: polySurface41
+    3300704: polySurface5
+    3300706: polySurface5 1
+    3300708: polySurface6
+    3300710: polySurface7
+    3300712: polySurface8
+    3300714: polySurface9
+    3300716: pPlane1
+    3300718: pPlane2
+    3300720: pPlane4
+    3300722: pPlane5
+    3300724: pPlane6
+    3300726: pPlane7
+    3300728: pPlane8
+    3300730: pSphere1
+    3300732: pSphere1 1
+    3300734: pSphere2
+    3300736: pSphere2 1
+    3300738: pSphere3
+    3300740: pSphere4
+    3300742: pSphere5
+    3300744: pSphere5 1
+    3300746: pSphere5 10
+    3300748: pSphere5 2
+    3300750: pSphere5 3
+    3300752: pSphere5 4
+    3300754: pSphere5 5
+    3300756: pSphere5 6
+    3300758: pSphere5 7
+    3300760: pSphere5 8
+    3300762: pSphere5 9
+    3300764: pSphere6
+    3300766: pSphere7
+    3300768: pTorus1
+    3300770: pTorus1 1
+    3300772: pTorus10
+    3300774: pTorus11
+    3300776: pTorus12
+    3300778: pTorus13
+    3300780: pTorus14
+    3300782: pTorus15
+    3300784: pTorus16
+    3300786: pTorus17
+    3300788: pTorus18
+    3300790: pTorus19
+    3300792: pTorus2
+    3300794: pTorus2 1
+    3300796: pTorus20
+    3300798: pTorus21
+    3300800: pTorus22
+    3300802: pTorus23
+    3300804: pTorus24
+    3300806: pTorus25
+    3300808: pTorus26
+    3300810: pTorus27
+    3300812: pTorus28
+    3300814: pTorus29
+    3300816: pTorus3
+    3300818: pTorus3 1
+    3300820: pTorus30
+    3300822: pTorus31
+    3300824: pTorus32
+    3300826: pTorus33
+    3300828: pTorus34
+    3300830: pTorus35
+    3300832: pTorus36
+    3300834: pTorus37
+    3300836: pTorus38
+    3300838: pTorus38 1
+    3300840: pTorus39
+    3300842: pTorus39 1
+    3300844: pTorus4
+    3300846: pTorus4 1
+    3300848: pTorus40
+    3300850: pTorus40 1
+    3300852: pTorus41
+    3300854: pTorus41 1
+    3300856: pTorus42
+    3300858: pTorus42 1
+    3300860: pTorus43
+    3300862: pTorus43 1
+    3300864: pTorus5
+    3300866: pTorus5 1
+    3300868: pTorus6
+    3300870: pTorus6 1
+    3300872: pTorus7
+    3300874: pTorus7 1
+    3300876: pTorus8
+    3300878: pTorus8 1
+    3300880: pTorus9
+    3300882: pTorus9 1
+    3300884: Pulli
+    3300886: rahmen
+    3300888: rahmen 1
+    3300890: RaumPulli
+    3300892: RaumSocke
+    3300894: RaumSocke02
+    3300896: Scharnier
+    3300898: Scharnier 1
+    3300900: Scharnier1
+    3300902: Scharnier1 1
+    3300904: Schirm
+    3300906: Schrim
+    3300908: Schulheft
+    3300910: Schulheft1
+    3300912: Schulheft2
+    3300914: Schulheft3
+    3300916: Schulheft4
+    3300918: shoe_l_smooth
+    3300920: shoe_r_smooth
+    3300922: Socke
+    3300924: Socke1
+    3300926: Steckdose
+    3300928: syCloth90ShapeTrf
+    3300930: Teppich
+    3300932: Unterlage
+    3300934: Wuerfel01
+    3300936: Wuerfel02
+    4300000: Auge_L
+    4300002: Auge_L2
+    4300004: Auge_L3
+    4300006: Auge_L4
+    4300008: Auge_L6
+    4300010: Auge_L7
+    4300012: Auge_L8
+    4300014: Auge_L1
+    4300016: Auge_R
+    4300018: pCylinder1
+    4300020: pCube1
+    4300022: pCylinder2
+    4300024: pSphere1
+    4300026: pSphere2
+    4300028: pCylinder3
+    4300030: pCube2
+    4300032: pCylinder4
+    4300034: pSphere3
+    4300036: pSphere4
+    4300038: polySurface2
+    4300040: pCube3
+    4300042: pCube3CPSproxy1
+    4300044: pPlane6
+    4300046: Decke_Smooth
+    4300048: Decke_Base
+    4300050: Laken_Smooth
+    4300052: pCube3CPSunite1
+    4300054: Kissen_SMooth
+    4300056: pCube59CPSunite1
+    4300058: Kissen_Base
+    4300060: polySurface37
+    4300062: Socke1
+    4300064: polySurface4
+    4300066: pCylinder5
+    4300068: pTorus1
+    4300070: pTorus2
+    4300072: pTorus3
+    4300074: pTorus4
+    4300076: pTorus5
+    4300078: pTorus6
+    4300080: pTorus7
+    4300082: polySurface5
+    4300084: pTorus8
+    4300086: pTorus9
+    4300088: polySurface4
+    4300090: pCylinder5
+    4300092: pTorus1
+    4300094: pTorus2
+    4300096: pTorus3
+    4300098: pTorus4
+    4300100: pTorus5
+    4300102: pTorus6
+    4300104: pTorus7
+    4300106: polySurface5
+    4300108: pTorus8
+    4300110: pTorus9
+    4300112: polySurface3
+    4300114: pCube13
+    4300116: pCube12
+    4300118: pCube11
+    4300120: pCube9
+    4300122: pCube8
+    4300124: pCube7
+    4300126: pCube6
+    4300128: pCube5
+    4300130: pCube4
+    4300132: pCube14
+    4300134: pCube16
+    4300136: pCube10
+    4300138: pCube17
+    4300140: pCube18
+    4300142: pCube19
+    4300144: nurbsToPoly1
+    4300146: pCube20
+    4300148: pCube19
+    4300150: nurbsToPoly1
+    4300152: pCube21
+    4300154: pCube19
+    4300156: nurbsToPoly1
+    4300158: pCube22
+    4300160: pCube19
+    4300162: nurbsToPoly1
+    4300164: pCube23
+    4300166: pCube24
+    4300168: pCube25
+    4300170: pCube26
+    4300172: pCylinder32
+    4300174: pCylinder33
+    4300176: pCylinder34
+    4300178: buch
+    4300180: buch1
+    4300182: buch2
+    4300184: buch3
+    4300186: pCylinder35
+    4300188: pCylinder36
+    4300190: pCylinder19
+    4300192: pSphere5
+    4300194: Murmel06
+    4300196: Murmel08
+    4300198: Murmel09
+    4300200: Murmel010
+    4300202: Murmel011
+    4300204: Unterlage
+    4300206: Blatt01
+    4300208: Blatt02
+    4300210: Blatt03
+    4300212: Blatt04
+    4300214: Blatt05
+    4300216: becher1
+    4300218: Murmel01
+    4300220: Murmel02
+    4300222: Murmel03
+    4300224: Murmel04
+    4300226: Murmel05
+    4300228: Murmel07
+    4300230: pCylinder19
+    4300232: pSphere5
+    4300234: pCylinder31
+    4300236: pCylinder19
+    4300238: pSphere5
+    4300240: becher
+    4300242: pCylinder19
+    4300244: pSphere5
+    4300246: pCylinder19
+    4300248: pSphere5
+    4300250: pCylinder19
+    4300252: pSphere5
+    4300254: pCylinder19
+    4300256: pSphere5
+    4300258: pCylinder19
+    4300260: pCylinder20
+    4300262: pCylinder21
+    4300264: pCylinder22
+    4300266: pCylinder23
+    4300268: pCylinder24
+    4300270: pCylinder19
+    4300272: pSphere5
+    4300274: pCylinder19
+    4300276: pSphere5
+    4300278: pCylinder19
+    4300280: pSphere5
+    4300282: pCylinder19
+    4300284: pSphere5
+    4300286: pCylinder25
+    4300288: pCylinder26
+    4300290: pCylinder27
+    4300292: pCylinder28
+    4300294: pCylinder29
+    4300296: pCylinder30
+    4300298: Blatt06
+    4300300: pCylinder37
+    4300302: polySurface21
+    4300304: polySurface22
+    4300306: pCylinder38
+    4300308: pCylinder39
+    4300310: pCylinder40
+    4300312: pCylinder41
+    4300314: pCylinder42
+    4300316: pCylinder43
+    4300318: polySurface23
+    4300320: polySurface24
+    4300322: polySurface25
+    4300324: polySurface26
+    4300326: pCylinder44
+    4300328: pCylinder45
+    4300330: pCylinder46
+    4300332: pCylinder47
+    4300334: polySurface27
+    4300336: polySurface28
+    4300338: pCylinder48
+    4300340: pCylinder49
+    4300342: pCylinder50
+    4300344: Schirm
+    4300346: pCylinder51
+    4300348: glas
+    4300350: nurbsToPoly12
+    4300352: pCylinder52
+    4300354: pCylinder53
+    4300356: pCylinder54
+    4300358: nurbsToPoly13
+    4300360: polySurface29
+    4300362: nurbsToPoly14
+    4300364: nurbsToPoly15
+    4300366: Farbtopf01
+    4300368: Farbtopf02
+    4300370: Farbtopf03
+    4300372: Farbtopf04
+    4300374: Farbtopf05
+    4300376: Schulheft
+    4300378: Schulheft1
+    4300380: Schulheft2
+    4300382: Schulheft3
+    4300384: Schulheft4
+    4300386: Papierkorb
+    4300388: pPlane8
+    4300390: polySurface6
+    4300392: polySurface7
+    4300394: polySurface8
+    4300396: polySurface9
+    4300398: polySurface10
+    4300400: polySurface15
+    4300402: Fassung
+    4300404: rahmen
+    4300406: glas
+    4300408: fassung
+    4300410: griff
+    4300412: Scharnier
+    4300414: Scharnier1
+    4300416: Collider1
+    4300418: Collider
+    4300420: rahmen
+    4300422: glas
+    4300424: fassung
+    4300426: griff
+    4300428: Scharnier
+    4300430: Scharnier1
+    4300432: nurbsToPoly4
+    4300434: nurbsToPoly3
+    4300436: polySurface13
+    4300438: polySurface12
+    4300440: pCylinder6
+    4300442: pTorus10
+    4300444: pTorus11
+    4300446: pTorus12
+    4300448: pTorus13
+    4300450: pTorus14
+    4300452: pTorus15
+    4300454: pTorus16
+    4300456: pTorus17
+    4300458: pTorus18
+    4300460: pTorus19
+    4300462: pTorus20
+    4300464: pTorus21
+    4300466: pTorus22
+    4300468: pTorus23
+    4300470: pTorus24
+    4300472: pTorus25
+    4300474: pTorus26
+    4300476: pTorus27
+    4300478: pTorus28
+    4300480: pTorus29
+    4300482: pTorus30
+    4300484: pTorus31
+    4300486: pTorus32
+    4300488: pTorus33
+    4300490: pTorus34
+    4300492: pTorus35
+    4300494: pTorus36
+    4300496: pTorus37
+    4300498: Gardine_base
+    4300500: GardineR
+    4300502: pPlane1
+    4300504: GardineL
+    4300506: polySurface11
+    4300508: pCylinder12
+    4300510: pCylinder11
+    4300512: pCylinder10
+    4300514: pCylinder9
+    4300516: pCylinder8
+    4300518: pCylinder7
+    4300520: pCube30
+    4300522: nurbsToPoly11
+    4300524: nurbsToPoly10
+    4300526: nurbsToPoly9
+    4300528: nurbsToPoly8
+    4300530: nurbsToPoly7
+    4300532: polySurface14
+    4300534: nurbsToPoly6
+    4300536: pCylinder16
+    4300538: pCylinder15
+    4300540: nurbsToPoly5
+    4300542: pCylinder14
+    4300544: pCylinder13
+    4300546: Pulli
+    4300548: RaumSocke02
+    4300550: RaumSocke
+    4300552: Nadel011
+    4300554: Nadel010
+    4300556: Nadel09
+    4300558: Nadel08
+    4300560: pPlane2
+    4300562: Nadel07
+    4300564: Nadel06
+    4300566: Nadel05
+    4300568: Nadel04
+    4300570: pPlane5
+    4300572: Nadel03
+    4300574: Nadel02
+    4300576: Nadel01
+    4300578: pPlane4
+    4300580: pCube31
+    4300582: pCube32
+    4300584: pCube33
+    4300586: pCube34
+    4300588: pCube35
+    4300590: pCube41
+    4300592: pCube40
+    4300594: pCube36
+    4300596: pCube37
+    4300598: pCube38
+    4300600: pCube39
+    4300602: polySurface17
+    4300604: polySurface16
+    4300606: pCube27
+    4300608: polySurface20
+    4300610: griff1
+    4300612: pCylinder17
+    4300614: pCylinder18
+    4300616: nurbsToPoly2
+    4300618: pCube42
+    4300620: Buch01
+    4300622: Buch02
+    4300624: Buch03
+    4300626: Buch04
+    4300628: becher2
+    4300630: Farbtopf06
+    4300632: Socke
+    4300634: polySurface30
+    4300636: polySurface31
+    4300638: Buch05
+    4300640: Buch06
+    4300642: Buch07
+    4300644: Buch08
+    4300646: Buch09
+    4300648: Buch010
+    4300650: hand_l_smooth
+    4300652: Body_smooth
+    4300654: shoe_l_smooth
+    4300656: shoe_r_smooth
+    4300658: Hand_r_smooth
+    4300660: Halstuch_smooth
+    4300662: Head_baseCPSproxy1
+    4300664: pSphere1
+    4300666: pSphere2
+    4300668: Halstuchhalter
+    4300670: Farbtopf07
+    4300672: Murmel012
+    4300674: syCloth90ShapeTrf
+    4300676: pCube47
+    4300678: pCube46
+    4300680: pCube45
+    4300682: pCube44
+    4300684: nurbsToPoly19
+    4300686: nurbsToPoly18
+    4300688: nurbsToPoly17
+    4300690: pCube43
+    4300692: nurbsToPoly16
+    4300694: nurbsToPoly19
+    4300696: nurbsToPoly18
+    4300698: nurbsToPoly17
+    4300700: pCube43
+    4300702: nurbsToPoly16
+    4300704: Schrim
+    4300706: Glas
+    4300708: nurbsToPoly20
+    4300710: pCylinder55
+    4300712: nurbsToPoly24
+    4300714: nurbsToPoly25
+    4300716: pCube48
+    4300718: pCube49
+    4300720: pCube50
+    4300722: pCube51
+    4300724: pCube53
+    4300726: pCube55
+    4300728: pCube56
+    4300730: polySurface35
+    4300732: polySurface33
+    4300734: pCube52
+    4300736: pCube54
+    4300738: polySurface34
+    4300740: pCylinder56
+    4300742: nurbsToPoly26
+    4300744: polySurface36
+    4300746: nurbsToPoly27
+    4300748: nurbsToPoly28
+    4300750: pCube57
+    4300752: pCube58
+    4300754: nurbsToPoly1
+    4300756: nurbsToPoly2
+    4300758: nurbsToPoly3
+    4300760: nurbsToPoly4
+    4300762: nurbsToPoly5
+    4300764: nurbsToPoly6
+    4300766: nurbsToPoly7
+    4300768: nurbsToPoly8
+    4300770: nurbsToPoly9
+    4300772: nurbsToPoly10
+    4300774: nurbsToPoly11
+    4300776: nurbsToPoly12
+    4300778: nurbsToPoly13
+    4300780: nurbsToPoly14
+    4300782: nurbsToPoly15
+    4300784: nurbsToPoly16
+    4300786: nurbsToPoly17
+    4300788: nurbsToPoly18
+    4300790: nurbsToPoly19
+    4300792: nurbsToPoly20
+    4300794: nurbsToPoly21
+    4300796: nurbsToPoly22
+    4300798: nurbsToPoly23
+    4300800: nurbsToPoly24
+    4300802: nurbsToPoly1
+    4300804: nurbsToPoly2
+    4300806: nurbsToPoly3
+    4300808: nurbsToPoly4
+    4300810: nurbsToPoly5
+    4300812: nurbsToPoly6
+    4300814: nurbsToPoly7
+    4300816: nurbsToPoly8
+    4300818: nurbsToPoly9
+    4300820: nurbsToPoly10
+    4300822: nurbsToPoly11
+    4300824: nurbsToPoly12
+    4300826: nurbsToPoly13
+    4300828: nurbsToPoly14
+    4300830: nurbsToPoly15
+    4300832: nurbsToPoly16
+    4300834: nurbsToPoly17
+    4300836: nurbsToPoly18
+    4300838: nurbsToPoly19
+    4300840: nurbsToPoly20
+    4300842: nurbsToPoly21
+    4300844: nurbsToPoly22
+    4300846: nurbsToPoly23
+    4300848: nurbsToPoly24
+    4300850: pSphere6
+    4300852: pSphere7
+    4300854: pTorus38
+    4300856: pTorus39
+    4300858: pTorus40
+    4300860: pCylinder57
+    4300862: pCylinder58
+    4300864: polySurface39
+    4300866: pCylinder59
+    4300868: pTorus41
+    4300870: pTorus42
+    4300872: pTorus43
+    4300874: pCylinder60
+    4300876: pCylinder61
+    4300878: pCylinder62
+    4300880: pTorus38
+    4300882: pTorus39
+    4300884: pTorus40
+    4300886: pCylinder57
+    4300888: pCylinder58
+    4300890: polySurface39
+    4300892: pCylinder59
+    4300894: pTorus41
+    4300896: pTorus42
+    4300898: pTorus43
+    4300900: pCylinder60
+    4300902: pCylinder61
+    4300904: pCylinder62
+    4300906: pCylinder63
+    4300908: pPlane7
+    4300910: pCylinder64
+    4300912: Teppich
+    4300914: Himmel
+    4300916: Mond
+    4300918: Wuerfel02
+    4300920: Wuerfel01
+    4300922: Steckdose
+    4300924: Ball
+    4300926: RaumPulli
+    4300928: polySurface40
+    4300930: polySurface41
+    4300932: pCylinder66
+    4300934: pCylinder65
+    4300936: mohawkDeepRed1Main
+    9500000: //RootNode
+    10800000: BodenLicht
+    10800002: DunkelUntermBett
+    10800004: LampenSchatten
+    10800006: MondLicht_O1
+    10800008: pointLight1
+    10800010: pointLight10
+    10800012: pointLight11
+    10800014: pointLight12
+    10800016: pointLight14
+    10800018: pointLight15
+    10800020: pointLight3
+    10800022: pointLight5
+    10800024: pointLight6
+    10800026: pointLight7
+    10800028: pointLight9
+    10800030: spotLight4
+    10800032: volumeLight13
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

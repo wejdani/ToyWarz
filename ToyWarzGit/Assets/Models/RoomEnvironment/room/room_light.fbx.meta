@@ -1,0 +1,2683 @@
+fileFormatVersion: 2
+guid: aa4ee67299d87514da89ecad350ab83d
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Room_Light:Ball
+    100004: Room_Light:base
+    100006: Room_Light:becher
+    100008: Room_Light:becher1
+    100010: Room_Light:becher2
+    100012: Room_Light:bed
+    100014: Room_Light:birne
+    100016: Room_Light:Blatt01
+    100018: Room_Light:Blatt02
+    100020: Room_Light:Blatt03
+    100022: Room_Light:Blatt04
+    100024: Room_Light:Blatt05
+    100026: Room_Light:Blatt06
+    100028: Room_Light:BodenLicht
+    100030: Room_Light:Body_smooth
+    100032: Room_Light:borders
+    100034: Room_Light:brush
+    100036: Room_Light:buch
+    100038: Room_Light:Buch01
+    100040: Room_Light:Buch010
+    100042: Room_Light:Buch02
+    100044: Room_Light:Buch03
+    100046: Room_Light:Buch04
+    100048: Room_Light:Buch05
+    100050: Room_Light:Buch06
+    100052: Room_Light:Buch07
+    100054: Room_Light:Buch08
+    100056: Room_Light:Buch09
+    100058: Room_Light:buch1
+    100060: Room_Light:buch2
+    100062: Room_Light:buch3
+    100064: Room_Light:camera1
+    100066: Room_Light:chair
+    100068: Room_Light:chest
+    100070: Room_Light:Collider
+    100072: Room_Light:Collider1
+    100074: Room_Light:cupboard
+    100076: Room_Light:Decke_Base
+    100078: Room_Light:Decke_DONTTOUCH
+    100080: Room_Light:Decke_Smooth
+    100082: Room_Light:Decke_Wrap
+    100084: Room_Light:deckel
+    100086: Room_Light:Desk
+    100088: Room_Light:door
+    100090: Room_Light:DunkelUntermBett
+    100092: Room_Light:eyes
+    100094: Room_Light:Farbtopf01
+    100096: Room_Light:Farbtopf02
+    100098: Room_Light:Farbtopf03
+    100100: Room_Light:Farbtopf04
+    100102: Room_Light:Farbtopf05
+    100104: Room_Light:Farbtopf06
+    100106: Room_Light:Farbtopf07
+    100108: Room_Light:Fassung
+    100110: Room_Light:fassung
+    100112: Room_Light:fassung 1
+    100114: Room_Light:Fenster
+    100116: Room_Light:Fenster1
+    100118: Room_Light:Gardine_base
+    100120: Room_Light:GardineL
+    100122: Room_Light:Gardinenstange
+    100124: Room_Light:GardineR
+    100126: Room_Light:Glas
+    100128: Room_Light:glas
+    100130: Room_Light:glas 1
+    100132: Room_Light:glas 2
+    100134: Room_Light:griff
+    100136: Room_Light:griff 1
+    100138: Room_Light:Griff1
+    100140: Room_Light:griff1
+    100142: Room_Light:Griff2
+    100144: Room_Light:group1
+    100146: Room_Light:group10
+    100148: Room_Light:group11
+    100150: Room_Light:group13
+    100152: Room_Light:group14
+    100154: Room_Light:group15
+    100156: Room_Light:group2
+    100158: Room_Light:group3
+    100160: Room_Light:group4
+    100162: Room_Light:group5
+    100164: Room_Light:group6
+    100166: Room_Light:group7
+    100168: Room_Light:group8
+    100170: Room_Light:group9
+    100172: Room_Light:Halstuch_smooth
+    100174: Room_Light:Halstuchhalter
+    100176: Room_Light:hand_l_smooth
+    100178: Room_Light:Hand_r_smooth
+    100180: Room_Light:Head_baseCPSproxy1
+    100182: Room_Light:heating
+    100184: Room_Light:Himmel
+    100186: Room_Light:Jack
+    100188: Room_Light:Kissen_Base
+    100190: Room_Light:Kissen_SMooth
+    100192: Room_Light:Laken_Smooth
+    100194: Room_Light:lamp
+    100196: Room_Light:lamp 1
+    100198: Room_Light:Lampe
+    100200: Room_Light:LampeLicht
+    100202: Room_Light:LampenSchatten
+    100204: Room_Light:lights
+    100206: Room_Light:lightswitch
+    100208: Room_Light:littlechair01
+    100210: Room_Light:Lok
+    100212: Room_Light:Lok1
+    100214: Room_Light:Mammut1
+    100216: Room_Light:mohawkDeepRed1Main
+    100218: Room_Light:mohawkDeepRed1MeshGroup
+    100220: Room_Light:Mond
+    100222: Room_Light:MondLichtM
+    100224: Room_Light:MondLichtO
+    100226: Room_Light:Murmel01
+    100228: Room_Light:Murmel010
+    100230: Room_Light:Murmel011
+    100232: Room_Light:Murmel012
+    100234: Room_Light:Murmel02
+    100236: Room_Light:Murmel03
+    100238: Room_Light:Murmel04
+    100240: Room_Light:Murmel05
+    100242: Room_Light:Murmel06
+    100244: Room_Light:Murmel07
+    100246: Room_Light:Murmel08
+    100248: Room_Light:Murmel09
+    100250: Room_Light:Murmelbecher
+    100252: Room_Light:Nadel01
+    100254: Room_Light:Nadel010
+    100256: Room_Light:Nadel011
+    100258: Room_Light:Nadel02
+    100260: Room_Light:Nadel03
+    100262: Room_Light:Nadel04
+    100264: Room_Light:Nadel05
+    100266: Room_Light:Nadel06
+    100268: Room_Light:Nadel07
+    100270: Room_Light:Nadel08
+    100272: Room_Light:Nadel09
+    100274: Room_Light:nightdesk
+    100276: Room_Light:nurbsPlane1
+    100278: Room_Light:nurbsToPoly1
+    100280: Room_Light:nurbsToPoly1 1
+    100282: Room_Light:nurbsToPoly1 2
+    100284: Room_Light:nurbsToPoly1 3
+    100286: Room_Light:nurbsToPoly1 4
+    100288: Room_Light:nurbsToPoly1 5
+    100290: Room_Light:nurbsToPoly10
+    100292: Room_Light:nurbsToPoly10 1
+    100294: Room_Light:nurbsToPoly10 2
+    100296: Room_Light:nurbsToPoly11
+    100298: Room_Light:nurbsToPoly11 1
+    100300: Room_Light:nurbsToPoly11 2
+    100302: Room_Light:nurbsToPoly12
+    100304: Room_Light:nurbsToPoly12 1
+    100306: Room_Light:nurbsToPoly12 2
+    100308: Room_Light:nurbsToPoly13
+    100310: Room_Light:nurbsToPoly13 1
+    100312: Room_Light:nurbsToPoly13 2
+    100314: Room_Light:nurbsToPoly14
+    100316: Room_Light:nurbsToPoly14 1
+    100318: Room_Light:nurbsToPoly14 2
+    100320: Room_Light:nurbsToPoly15
+    100322: Room_Light:nurbsToPoly15 1
+    100324: Room_Light:nurbsToPoly15 2
+    100326: Room_Light:nurbsToPoly16
+    100328: Room_Light:nurbsToPoly16 1
+    100330: Room_Light:nurbsToPoly16 2
+    100332: Room_Light:nurbsToPoly16 3
+    100334: Room_Light:nurbsToPoly17
+    100336: Room_Light:nurbsToPoly17 1
+    100338: Room_Light:nurbsToPoly17 2
+    100340: Room_Light:nurbsToPoly17 3
+    100342: Room_Light:nurbsToPoly18
+    100344: Room_Light:nurbsToPoly18 1
+    100346: Room_Light:nurbsToPoly18 2
+    100348: Room_Light:nurbsToPoly18 3
+    100350: Room_Light:nurbsToPoly19
+    100352: Room_Light:nurbsToPoly19 1
+    100354: Room_Light:nurbsToPoly19 2
+    100356: Room_Light:nurbsToPoly19 3
+    100358: Room_Light:nurbsToPoly2
+    100360: Room_Light:nurbsToPoly2 1
+    100362: Room_Light:nurbsToPoly2 2
+    100364: Room_Light:nurbsToPoly20
+    100366: Room_Light:nurbsToPoly20 1
+    100368: Room_Light:nurbsToPoly20 2
+    100370: Room_Light:nurbsToPoly21
+    100372: Room_Light:nurbsToPoly21 1
+    100374: Room_Light:nurbsToPoly22
+    100376: Room_Light:nurbsToPoly22 1
+    100378: Room_Light:nurbsToPoly23
+    100380: Room_Light:nurbsToPoly23 1
+    100382: Room_Light:nurbsToPoly24
+    100384: Room_Light:nurbsToPoly24 1
+    100386: Room_Light:nurbsToPoly24 2
+    100388: Room_Light:nurbsToPoly25
+    100390: Room_Light:nurbsToPoly26
+    100392: Room_Light:nurbsToPoly27
+    100394: Room_Light:nurbsToPoly28
+    100396: Room_Light:nurbsToPoly3
+    100398: Room_Light:nurbsToPoly3 1
+    100400: Room_Light:nurbsToPoly3 2
+    100402: Room_Light:nurbsToPoly4
+    100404: Room_Light:nurbsToPoly4 1
+    100406: Room_Light:nurbsToPoly4 2
+    100408: Room_Light:nurbsToPoly5
+    100410: Room_Light:nurbsToPoly5 1
+    100412: Room_Light:nurbsToPoly5 2
+    100414: Room_Light:nurbsToPoly6
+    100416: Room_Light:nurbsToPoly6 1
+    100418: Room_Light:nurbsToPoly6 2
+    100420: Room_Light:nurbsToPoly7
+    100422: Room_Light:nurbsToPoly7 1
+    100424: Room_Light:nurbsToPoly7 2
+    100426: Room_Light:nurbsToPoly8
+    100428: Room_Light:nurbsToPoly8 1
+    100430: Room_Light:nurbsToPoly8 2
+    100432: Room_Light:nurbsToPoly9
+    100434: Room_Light:nurbsToPoly9 1
+    100436: Room_Light:nurbsToPoly9 2
+    100438: Room_Light:Papierkorb
+    100440: Room_Light:pCube1
+    100442: Room_Light:pCube10
+    100444: Room_Light:pCube11
+    100446: Room_Light:pCube12
+    100448: Room_Light:pCube13
+    100450: Room_Light:pCube14
+    100452: Room_Light:pCube16
+    100454: Room_Light:pCube17
+    100456: Room_Light:pCube18
+    100458: Room_Light:pCube19
+    100460: Room_Light:pCube19 1
+    100462: Room_Light:pCube19 2
+    100464: Room_Light:pCube19 3
+    100466: Room_Light:pCube2
+    100468: Room_Light:pCube20
+    100470: Room_Light:pCube21
+    100472: Room_Light:pCube22
+    100474: Room_Light:pCube23
+    100476: Room_Light:pCube24
+    100478: Room_Light:pCube25
+    100480: Room_Light:pCube26
+    100482: Room_Light:pCube27
+    100484: Room_Light:pCube3
+    100486: Room_Light:pCube30
+    100488: Room_Light:pCube31
+    100490: Room_Light:pCube32
+    100492: Room_Light:pCube33
+    100494: Room_Light:pCube34
+    100496: Room_Light:pCube35
+    100498: Room_Light:pCube36
+    100500: Room_Light:pCube37
+    100502: Room_Light:pCube38
+    100504: Room_Light:pCube39
+    100506: Room_Light:pCube3CPSproxy1
+    100508: Room_Light:pCube3CPSunite1
+    100510: Room_Light:pCube4
+    100512: Room_Light:pCube40
+    100514: Room_Light:pCube41
+    100516: Room_Light:pCube42
+    100518: Room_Light:pCube43
+    100520: Room_Light:pCube43 1
+    100522: Room_Light:pCube44
+    100524: Room_Light:pCube45
+    100526: Room_Light:pCube46
+    100528: Room_Light:pCube47
+    100530: Room_Light:pCube48
+    100532: Room_Light:pCube49
+    100534: Room_Light:pCube5
+    100536: Room_Light:pCube50
+    100538: Room_Light:pCube51
+    100540: Room_Light:pCube52
+    100542: Room_Light:pCube53
+    100544: Room_Light:pCube54
+    100546: Room_Light:pCube55
+    100548: Room_Light:pCube56
+    100550: Room_Light:pCube57
+    100552: Room_Light:pCube58
+    100554: Room_Light:pCube59CPSunite1
+    100556: Room_Light:pCube6
+    100558: Room_Light:pCube7
+    100560: Room_Light:pCube8
+    100562: Room_Light:pCube9
+    100564: Room_Light:pCylinder1
+    100566: Room_Light:pCylinder10
+    100568: Room_Light:pCylinder11
+    100570: Room_Light:pCylinder12
+    100572: Room_Light:pCylinder13
+    100574: Room_Light:pCylinder14
+    100576: Room_Light:pCylinder15
+    100578: Room_Light:pCylinder16
+    100580: Room_Light:pCylinder17
+    100582: Room_Light:pCylinder18
+    100584: Room_Light:pCylinder19
+    100586: Room_Light:pCylinder19 1
+    100588: Room_Light:pCylinder19 10
+    100590: Room_Light:pCylinder19 11
+    100592: Room_Light:pCylinder19 2
+    100594: Room_Light:pCylinder19 3
+    100596: Room_Light:pCylinder19 4
+    100598: Room_Light:pCylinder19 5
+    100600: Room_Light:pCylinder19 6
+    100602: Room_Light:pCylinder19 7
+    100604: Room_Light:pCylinder19 8
+    100606: Room_Light:pCylinder19 9
+    100608: Room_Light:pCylinder2
+    100610: Room_Light:pCylinder20
+    100612: Room_Light:pCylinder21
+    100614: Room_Light:pCylinder22
+    100616: Room_Light:pCylinder23
+    100618: Room_Light:pCylinder24
+    100620: Room_Light:pCylinder25
+    100622: Room_Light:pCylinder26
+    100624: Room_Light:pCylinder27
+    100626: Room_Light:pCylinder28
+    100628: Room_Light:pCylinder29
+    100630: Room_Light:pCylinder3
+    100632: Room_Light:pCylinder30
+    100634: Room_Light:pCylinder31
+    100636: Room_Light:pCylinder32
+    100638: Room_Light:pCylinder33
+    100640: Room_Light:pCylinder34
+    100642: Room_Light:pCylinder35
+    100644: Room_Light:pCylinder36
+    100646: Room_Light:pCylinder37
+    100648: Room_Light:pCylinder38
+    100650: Room_Light:pCylinder39
+    100652: Room_Light:pCylinder4
+    100654: Room_Light:pCylinder40
+    100656: Room_Light:pCylinder41
+    100658: Room_Light:pCylinder42
+    100660: Room_Light:pCylinder43
+    100662: Room_Light:pCylinder44
+    100664: Room_Light:pCylinder45
+    100666: Room_Light:pCylinder46
+    100668: Room_Light:pCylinder47
+    100670: Room_Light:pCylinder48
+    100672: Room_Light:pCylinder49
+    100674: Room_Light:pCylinder5
+    100676: Room_Light:pCylinder5 1
+    100678: Room_Light:pCylinder50
+    100680: Room_Light:pCylinder51
+    100682: Room_Light:pCylinder52
+    100684: Room_Light:pCylinder53
+    100686: Room_Light:pCylinder54
+    100688: Room_Light:pCylinder55
+    100690: Room_Light:pCylinder56
+    100692: Room_Light:pCylinder57
+    100694: Room_Light:pCylinder57 1
+    100696: Room_Light:pCylinder58
+    100698: Room_Light:pCylinder58 1
+    100700: Room_Light:pCylinder59
+    100702: Room_Light:pCylinder59 1
+    100704: Room_Light:pCylinder6
+    100706: Room_Light:pCylinder60
+    100708: Room_Light:pCylinder60 1
+    100710: Room_Light:pCylinder61
+    100712: Room_Light:pCylinder61 1
+    100714: Room_Light:pCylinder62
+    100716: Room_Light:pCylinder62 1
+    100718: Room_Light:pCylinder63
+    100720: Room_Light:pCylinder64
+    100722: Room_Light:pCylinder65
+    100724: Room_Light:pCylinder66
+    100726: Room_Light:pCylinder7
+    100728: Room_Light:pCylinder8
+    100730: Room_Light:pCylinder9
+    100732: Room_Light:Pinsel01
+    100734: Room_Light:Pinsel010
+    100736: Room_Light:Pinsel011
+    100738: Room_Light:Pinsel02
+    100740: Room_Light:Pinsel03
+    100742: Room_Light:Pinsel04
+    100744: Room_Light:Pinsel05
+    100746: Room_Light:Pinsel06
+    100748: Room_Light:Pinsel07
+    100750: Room_Light:Pinsel08
+    100752: Room_Light:Pinsel09
+    100754: Room_Light:place3dTexture1
+    100756: Room_Light:place3dTexture2
+    100758: Room_Light:place3dTexture3
+    100760: Room_Light:place3dTexture4
+    100762: Room_Light:place3dTexture6
+    100764: Room_Light:pointLight1
+    100766: Room_Light:pointLight10
+    100768: Room_Light:pointLight11
+    100770: Room_Light:pointLight12
+    100772: Room_Light:pointLight13
+    100774: Room_Light:pointLight14
+    100776: Room_Light:pointLight15
+    100778: Room_Light:pointLight3
+    100780: Room_Light:pointLight5
+    100782: Room_Light:pointLight6
+    100784: Room_Light:pointLight7
+    100786: Room_Light:pointLight9
+    100788: Room_Light:polySurface10
+    100790: Room_Light:polySurface11
+    100792: Room_Light:polySurface12
+    100794: Room_Light:polySurface13
+    100796: Room_Light:polySurface14
+    100798: Room_Light:polySurface15
+    100800: Room_Light:polySurface16
+    100802: Room_Light:polySurface17
+    100804: Room_Light:polySurface2
+    100806: Room_Light:polySurface20
+    100808: Room_Light:polySurface21
+    100810: Room_Light:polySurface22
+    100812: Room_Light:polySurface23
+    100814: Room_Light:polySurface24
+    100816: Room_Light:polySurface25
+    100818: Room_Light:polySurface26
+    100820: Room_Light:polySurface27
+    100822: Room_Light:polySurface28
+    100824: Room_Light:polySurface29
+    100826: Room_Light:polySurface3
+    100828: Room_Light:polySurface30
+    100830: Room_Light:polySurface31
+    100832: Room_Light:polySurface33
+    100834: Room_Light:polySurface34
+    100836: Room_Light:polySurface35
+    100838: Room_Light:polySurface36
+    100840: Room_Light:polySurface37
+    100842: Room_Light:polySurface39
+    100844: Room_Light:polySurface39 1
+    100846: Room_Light:polySurface4
+    100848: Room_Light:polySurface4 1
+    100850: Room_Light:polySurface5
+    100852: Room_Light:polySurface5 1
+    100854: Room_Light:polySurface6
+    100856: Room_Light:polySurface7
+    100858: Room_Light:polySurface8
+    100860: Room_Light:polySurface9
+    100862: Room_Light:posters
+    100864: Room_Light:pPlane1
+    100866: Room_Light:pPlane2
+    100868: Room_Light:pPlane4
+    100870: Room_Light:pPlane5
+    100872: Room_Light:pPlane6
+    100874: Room_Light:pPlane7
+    100876: Room_Light:pPlane8
+    100878: Room_Light:pSphere1
+    100880: Room_Light:pSphere1 1
+    100882: Room_Light:pSphere2
+    100884: Room_Light:pSphere2 1
+    100886: Room_Light:pSphere3
+    100888: Room_Light:pSphere4
+    100890: Room_Light:pSphere5
+    100892: Room_Light:pSphere5 1
+    100894: Room_Light:pSphere5 10
+    100896: Room_Light:pSphere5 2
+    100898: Room_Light:pSphere5 3
+    100900: Room_Light:pSphere5 4
+    100902: Room_Light:pSphere5 5
+    100904: Room_Light:pSphere5 6
+    100906: Room_Light:pSphere5 7
+    100908: Room_Light:pSphere5 8
+    100910: Room_Light:pSphere5 9
+    100912: Room_Light:pSphere6
+    100914: Room_Light:pSphere7
+    100916: Room_Light:pSphere8
+    100918: Room_Light:pSphere9
+    100920: Room_Light:pTorus1
+    100922: Room_Light:pTorus1 1
+    100924: Room_Light:pTorus10
+    100926: Room_Light:pTorus11
+    100928: Room_Light:pTorus12
+    100930: Room_Light:pTorus13
+    100932: Room_Light:pTorus14
+    100934: Room_Light:pTorus15
+    100936: Room_Light:pTorus16
+    100938: Room_Light:pTorus17
+    100940: Room_Light:pTorus18
+    100942: Room_Light:pTorus19
+    100944: Room_Light:pTorus2
+    100946: Room_Light:pTorus2 1
+    100948: Room_Light:pTorus20
+    100950: Room_Light:pTorus21
+    100952: Room_Light:pTorus22
+    100954: Room_Light:pTorus23
+    100956: Room_Light:pTorus24
+    100958: Room_Light:pTorus25
+    100960: Room_Light:pTorus26
+    100962: Room_Light:pTorus27
+    100964: Room_Light:pTorus28
+    100966: Room_Light:pTorus29
+    100968: Room_Light:pTorus3
+    100970: Room_Light:pTorus3 1
+    100972: Room_Light:pTorus30
+    100974: Room_Light:pTorus31
+    100976: Room_Light:pTorus32
+    100978: Room_Light:pTorus33
+    100980: Room_Light:pTorus34
+    100982: Room_Light:pTorus35
+    100984: Room_Light:pTorus36
+    100986: Room_Light:pTorus37
+    100988: Room_Light:pTorus38
+    100990: Room_Light:pTorus38 1
+    100992: Room_Light:pTorus39
+    100994: Room_Light:pTorus39 1
+    100996: Room_Light:pTorus4
+    100998: Room_Light:pTorus4 1
+    101000: Room_Light:pTorus40
+    101002: Room_Light:pTorus40 1
+    101004: Room_Light:pTorus41
+    101006: Room_Light:pTorus41 1
+    101008: Room_Light:pTorus42
+    101010: Room_Light:pTorus42 1
+    101012: Room_Light:pTorus43
+    101014: Room_Light:pTorus43 1
+    101016: Room_Light:pTorus5
+    101018: Room_Light:pTorus5 1
+    101020: Room_Light:pTorus6
+    101022: Room_Light:pTorus6 1
+    101024: Room_Light:pTorus7
+    101026: Room_Light:pTorus7 1
+    101028: Room_Light:pTorus8
+    101030: Room_Light:pTorus8 1
+    101032: Room_Light:pTorus9
+    101034: Room_Light:pTorus9 1
+    101036: Room_Light:Pulli
+    101038: Room_Light:rahmen
+    101040: Room_Light:rahmen 1
+    101042: Room_Light:raum
+    101044: Room_Light:RaumPulli
+    101046: Room_Light:RaumSocke
+    101048: Room_Light:RaumSocke02
+    101050: Room_Light:room
+    101052: Room_Light:Room1
+    101054: Room_Light:Scharnier
+    101056: Room_Light:Scharnier 1
+    101058: Room_Light:Scharnier1
+    101060: Room_Light:Scharnier1 1
+    101062: Room_Light:Schirm
+    101064: Room_Light:Schrank
+    101066: Room_Light:Schrim
+    101068: Room_Light:Schulheft
+    101070: Room_Light:Schulheft1
+    101072: Room_Light:Schulheft2
+    101074: Room_Light:Schulheft3
+    101076: Room_Light:Schulheft4
+    101078: Room_Light:shoe_l_smooth
+    101080: Room_Light:shoe_r_smooth
+    101082: Room_Light:Socke
+    101084: Room_Light:Socke1
+    101086: Room_Light:spotLight4
+    101088: Room_Light:Steckdose
+    101090: Room_Light:stuff
+    101092: Room_Light:stuff2
+    101094: Room_Light:syCloth90ShapeTrf
+    101096: Room_Light:Teppich
+    101098: Room_Light:Tron_Bike_B
+    101100: Room_Light:Tron_Bike_R
+    101102: Room_Light:Tuer
+    101104: Room_Light:Unterlage
+    101106: Room_Light:window
+    101108: Room_Light:Wuerfel01
+    101110: Room_Light:Wuerfel02
+    101112: Room_Light:Zeichenbecher
+    400000: //RootNode
+    400002: Room_Light:Ball
+    400004: Room_Light:base
+    400006: Room_Light:becher
+    400008: Room_Light:becher1
+    400010: Room_Light:becher2
+    400012: Room_Light:bed
+    400014: Room_Light:birne
+    400016: Room_Light:Blatt01
+    400018: Room_Light:Blatt02
+    400020: Room_Light:Blatt03
+    400022: Room_Light:Blatt04
+    400024: Room_Light:Blatt05
+    400026: Room_Light:Blatt06
+    400028: Room_Light:BodenLicht
+    400030: Room_Light:Body_smooth
+    400032: Room_Light:borders
+    400034: Room_Light:brush
+    400036: Room_Light:buch
+    400038: Room_Light:Buch01
+    400040: Room_Light:Buch010
+    400042: Room_Light:Buch02
+    400044: Room_Light:Buch03
+    400046: Room_Light:Buch04
+    400048: Room_Light:Buch05
+    400050: Room_Light:Buch06
+    400052: Room_Light:Buch07
+    400054: Room_Light:Buch08
+    400056: Room_Light:Buch09
+    400058: Room_Light:buch1
+    400060: Room_Light:buch2
+    400062: Room_Light:buch3
+    400064: Room_Light:camera1
+    400066: Room_Light:chair
+    400068: Room_Light:chest
+    400070: Room_Light:Collider
+    400072: Room_Light:Collider1
+    400074: Room_Light:cupboard
+    400076: Room_Light:Decke_Base
+    400078: Room_Light:Decke_DONTTOUCH
+    400080: Room_Light:Decke_Smooth
+    400082: Room_Light:Decke_Wrap
+    400084: Room_Light:deckel
+    400086: Room_Light:Desk
+    400088: Room_Light:door
+    400090: Room_Light:DunkelUntermBett
+    400092: Room_Light:eyes
+    400094: Room_Light:Farbtopf01
+    400096: Room_Light:Farbtopf02
+    400098: Room_Light:Farbtopf03
+    400100: Room_Light:Farbtopf04
+    400102: Room_Light:Farbtopf05
+    400104: Room_Light:Farbtopf06
+    400106: Room_Light:Farbtopf07
+    400108: Room_Light:Fassung
+    400110: Room_Light:fassung
+    400112: Room_Light:fassung 1
+    400114: Room_Light:Fenster
+    400116: Room_Light:Fenster1
+    400118: Room_Light:Gardine_base
+    400120: Room_Light:GardineL
+    400122: Room_Light:Gardinenstange
+    400124: Room_Light:GardineR
+    400126: Room_Light:Glas
+    400128: Room_Light:glas
+    400130: Room_Light:glas 1
+    400132: Room_Light:glas 2
+    400134: Room_Light:griff
+    400136: Room_Light:griff 1
+    400138: Room_Light:Griff1
+    400140: Room_Light:griff1
+    400142: Room_Light:Griff2
+    400144: Room_Light:group1
+    400146: Room_Light:group10
+    400148: Room_Light:group11
+    400150: Room_Light:group13
+    400152: Room_Light:group14
+    400154: Room_Light:group15
+    400156: Room_Light:group2
+    400158: Room_Light:group3
+    400160: Room_Light:group4
+    400162: Room_Light:group5
+    400164: Room_Light:group6
+    400166: Room_Light:group7
+    400168: Room_Light:group8
+    400170: Room_Light:group9
+    400172: Room_Light:Halstuch_smooth
+    400174: Room_Light:Halstuchhalter
+    400176: Room_Light:hand_l_smooth
+    400178: Room_Light:Hand_r_smooth
+    400180: Room_Light:Head_baseCPSproxy1
+    400182: Room_Light:heating
+    400184: Room_Light:Himmel
+    400186: Room_Light:Jack
+    400188: Room_Light:Kissen_Base
+    400190: Room_Light:Kissen_SMooth
+    400192: Room_Light:Laken_Smooth
+    400194: Room_Light:lamp
+    400196: Room_Light:lamp 1
+    400198: Room_Light:Lampe
+    400200: Room_Light:LampeLicht
+    400202: Room_Light:LampenSchatten
+    400204: Room_Light:lights
+    400206: Room_Light:lightswitch
+    400208: Room_Light:littlechair01
+    400210: Room_Light:Lok
+    400212: Room_Light:Lok1
+    400214: Room_Light:Mammut1
+    400216: Room_Light:mohawkDeepRed1Main
+    400218: Room_Light:mohawkDeepRed1MeshGroup
+    400220: Room_Light:Mond
+    400222: Room_Light:MondLichtM
+    400224: Room_Light:MondLichtO
+    400226: Room_Light:Murmel01
+    400228: Room_Light:Murmel010
+    400230: Room_Light:Murmel011
+    400232: Room_Light:Murmel012
+    400234: Room_Light:Murmel02
+    400236: Room_Light:Murmel03
+    400238: Room_Light:Murmel04
+    400240: Room_Light:Murmel05
+    400242: Room_Light:Murmel06
+    400244: Room_Light:Murmel07
+    400246: Room_Light:Murmel08
+    400248: Room_Light:Murmel09
+    400250: Room_Light:Murmelbecher
+    400252: Room_Light:Nadel01
+    400254: Room_Light:Nadel010
+    400256: Room_Light:Nadel011
+    400258: Room_Light:Nadel02
+    400260: Room_Light:Nadel03
+    400262: Room_Light:Nadel04
+    400264: Room_Light:Nadel05
+    400266: Room_Light:Nadel06
+    400268: Room_Light:Nadel07
+    400270: Room_Light:Nadel08
+    400272: Room_Light:Nadel09
+    400274: Room_Light:nightdesk
+    400276: Room_Light:nurbsPlane1
+    400278: Room_Light:nurbsToPoly1
+    400280: Room_Light:nurbsToPoly1 1
+    400282: Room_Light:nurbsToPoly1 2
+    400284: Room_Light:nurbsToPoly1 3
+    400286: Room_Light:nurbsToPoly1 4
+    400288: Room_Light:nurbsToPoly1 5
+    400290: Room_Light:nurbsToPoly10
+    400292: Room_Light:nurbsToPoly10 1
+    400294: Room_Light:nurbsToPoly10 2
+    400296: Room_Light:nurbsToPoly11
+    400298: Room_Light:nurbsToPoly11 1
+    400300: Room_Light:nurbsToPoly11 2
+    400302: Room_Light:nurbsToPoly12
+    400304: Room_Light:nurbsToPoly12 1
+    400306: Room_Light:nurbsToPoly12 2
+    400308: Room_Light:nurbsToPoly13
+    400310: Room_Light:nurbsToPoly13 1
+    400312: Room_Light:nurbsToPoly13 2
+    400314: Room_Light:nurbsToPoly14
+    400316: Room_Light:nurbsToPoly14 1
+    400318: Room_Light:nurbsToPoly14 2
+    400320: Room_Light:nurbsToPoly15
+    400322: Room_Light:nurbsToPoly15 1
+    400324: Room_Light:nurbsToPoly15 2
+    400326: Room_Light:nurbsToPoly16
+    400328: Room_Light:nurbsToPoly16 1
+    400330: Room_Light:nurbsToPoly16 2
+    400332: Room_Light:nurbsToPoly16 3
+    400334: Room_Light:nurbsToPoly17
+    400336: Room_Light:nurbsToPoly17 1
+    400338: Room_Light:nurbsToPoly17 2
+    400340: Room_Light:nurbsToPoly17 3
+    400342: Room_Light:nurbsToPoly18
+    400344: Room_Light:nurbsToPoly18 1
+    400346: Room_Light:nurbsToPoly18 2
+    400348: Room_Light:nurbsToPoly18 3
+    400350: Room_Light:nurbsToPoly19
+    400352: Room_Light:nurbsToPoly19 1
+    400354: Room_Light:nurbsToPoly19 2
+    400356: Room_Light:nurbsToPoly19 3
+    400358: Room_Light:nurbsToPoly2
+    400360: Room_Light:nurbsToPoly2 1
+    400362: Room_Light:nurbsToPoly2 2
+    400364: Room_Light:nurbsToPoly20
+    400366: Room_Light:nurbsToPoly20 1
+    400368: Room_Light:nurbsToPoly20 2
+    400370: Room_Light:nurbsToPoly21
+    400372: Room_Light:nurbsToPoly21 1
+    400374: Room_Light:nurbsToPoly22
+    400376: Room_Light:nurbsToPoly22 1
+    400378: Room_Light:nurbsToPoly23
+    400380: Room_Light:nurbsToPoly23 1
+    400382: Room_Light:nurbsToPoly24
+    400384: Room_Light:nurbsToPoly24 1
+    400386: Room_Light:nurbsToPoly24 2
+    400388: Room_Light:nurbsToPoly25
+    400390: Room_Light:nurbsToPoly26
+    400392: Room_Light:nurbsToPoly27
+    400394: Room_Light:nurbsToPoly28
+    400396: Room_Light:nurbsToPoly3
+    400398: Room_Light:nurbsToPoly3 1
+    400400: Room_Light:nurbsToPoly3 2
+    400402: Room_Light:nurbsToPoly4
+    400404: Room_Light:nurbsToPoly4 1
+    400406: Room_Light:nurbsToPoly4 2
+    400408: Room_Light:nurbsToPoly5
+    400410: Room_Light:nurbsToPoly5 1
+    400412: Room_Light:nurbsToPoly5 2
+    400414: Room_Light:nurbsToPoly6
+    400416: Room_Light:nurbsToPoly6 1
+    400418: Room_Light:nurbsToPoly6 2
+    400420: Room_Light:nurbsToPoly7
+    400422: Room_Light:nurbsToPoly7 1
+    400424: Room_Light:nurbsToPoly7 2
+    400426: Room_Light:nurbsToPoly8
+    400428: Room_Light:nurbsToPoly8 1
+    400430: Room_Light:nurbsToPoly8 2
+    400432: Room_Light:nurbsToPoly9
+    400434: Room_Light:nurbsToPoly9 1
+    400436: Room_Light:nurbsToPoly9 2
+    400438: Room_Light:Papierkorb
+    400440: Room_Light:pCube1
+    400442: Room_Light:pCube10
+    400444: Room_Light:pCube11
+    400446: Room_Light:pCube12
+    400448: Room_Light:pCube13
+    400450: Room_Light:pCube14
+    400452: Room_Light:pCube16
+    400454: Room_Light:pCube17
+    400456: Room_Light:pCube18
+    400458: Room_Light:pCube19
+    400460: Room_Light:pCube19 1
+    400462: Room_Light:pCube19 2
+    400464: Room_Light:pCube19 3
+    400466: Room_Light:pCube2
+    400468: Room_Light:pCube20
+    400470: Room_Light:pCube21
+    400472: Room_Light:pCube22
+    400474: Room_Light:pCube23
+    400476: Room_Light:pCube24
+    400478: Room_Light:pCube25
+    400480: Room_Light:pCube26
+    400482: Room_Light:pCube27
+    400484: Room_Light:pCube3
+    400486: Room_Light:pCube30
+    400488: Room_Light:pCube31
+    400490: Room_Light:pCube32
+    400492: Room_Light:pCube33
+    400494: Room_Light:pCube34
+    400496: Room_Light:pCube35
+    400498: Room_Light:pCube36
+    400500: Room_Light:pCube37
+    400502: Room_Light:pCube38
+    400504: Room_Light:pCube39
+    400506: Room_Light:pCube3CPSproxy1
+    400508: Room_Light:pCube3CPSunite1
+    400510: Room_Light:pCube4
+    400512: Room_Light:pCube40
+    400514: Room_Light:pCube41
+    400516: Room_Light:pCube42
+    400518: Room_Light:pCube43
+    400520: Room_Light:pCube43 1
+    400522: Room_Light:pCube44
+    400524: Room_Light:pCube45
+    400526: Room_Light:pCube46
+    400528: Room_Light:pCube47
+    400530: Room_Light:pCube48
+    400532: Room_Light:pCube49
+    400534: Room_Light:pCube5
+    400536: Room_Light:pCube50
+    400538: Room_Light:pCube51
+    400540: Room_Light:pCube52
+    400542: Room_Light:pCube53
+    400544: Room_Light:pCube54
+    400546: Room_Light:pCube55
+    400548: Room_Light:pCube56
+    400550: Room_Light:pCube57
+    400552: Room_Light:pCube58
+    400554: Room_Light:pCube59CPSunite1
+    400556: Room_Light:pCube6
+    400558: Room_Light:pCube7
+    400560: Room_Light:pCube8
+    400562: Room_Light:pCube9
+    400564: Room_Light:pCylinder1
+    400566: Room_Light:pCylinder10
+    400568: Room_Light:pCylinder11
+    400570: Room_Light:pCylinder12
+    400572: Room_Light:pCylinder13
+    400574: Room_Light:pCylinder14
+    400576: Room_Light:pCylinder15
+    400578: Room_Light:pCylinder16
+    400580: Room_Light:pCylinder17
+    400582: Room_Light:pCylinder18
+    400584: Room_Light:pCylinder19
+    400586: Room_Light:pCylinder19 1
+    400588: Room_Light:pCylinder19 10
+    400590: Room_Light:pCylinder19 11
+    400592: Room_Light:pCylinder19 2
+    400594: Room_Light:pCylinder19 3
+    400596: Room_Light:pCylinder19 4
+    400598: Room_Light:pCylinder19 5
+    400600: Room_Light:pCylinder19 6
+    400602: Room_Light:pCylinder19 7
+    400604: Room_Light:pCylinder19 8
+    400606: Room_Light:pCylinder19 9
+    400608: Room_Light:pCylinder2
+    400610: Room_Light:pCylinder20
+    400612: Room_Light:pCylinder21
+    400614: Room_Light:pCylinder22
+    400616: Room_Light:pCylinder23
+    400618: Room_Light:pCylinder24
+    400620: Room_Light:pCylinder25
+    400622: Room_Light:pCylinder26
+    400624: Room_Light:pCylinder27
+    400626: Room_Light:pCylinder28
+    400628: Room_Light:pCylinder29
+    400630: Room_Light:pCylinder3
+    400632: Room_Light:pCylinder30
+    400634: Room_Light:pCylinder31
+    400636: Room_Light:pCylinder32
+    400638: Room_Light:pCylinder33
+    400640: Room_Light:pCylinder34
+    400642: Room_Light:pCylinder35
+    400644: Room_Light:pCylinder36
+    400646: Room_Light:pCylinder37
+    400648: Room_Light:pCylinder38
+    400650: Room_Light:pCylinder39
+    400652: Room_Light:pCylinder4
+    400654: Room_Light:pCylinder40
+    400656: Room_Light:pCylinder41
+    400658: Room_Light:pCylinder42
+    400660: Room_Light:pCylinder43
+    400662: Room_Light:pCylinder44
+    400664: Room_Light:pCylinder45
+    400666: Room_Light:pCylinder46
+    400668: Room_Light:pCylinder47
+    400670: Room_Light:pCylinder48
+    400672: Room_Light:pCylinder49
+    400674: Room_Light:pCylinder5
+    400676: Room_Light:pCylinder5 1
+    400678: Room_Light:pCylinder50
+    400680: Room_Light:pCylinder51
+    400682: Room_Light:pCylinder52
+    400684: Room_Light:pCylinder53
+    400686: Room_Light:pCylinder54
+    400688: Room_Light:pCylinder55
+    400690: Room_Light:pCylinder56
+    400692: Room_Light:pCylinder57
+    400694: Room_Light:pCylinder57 1
+    400696: Room_Light:pCylinder58
+    400698: Room_Light:pCylinder58 1
+    400700: Room_Light:pCylinder59
+    400702: Room_Light:pCylinder59 1
+    400704: Room_Light:pCylinder6
+    400706: Room_Light:pCylinder60
+    400708: Room_Light:pCylinder60 1
+    400710: Room_Light:pCylinder61
+    400712: Room_Light:pCylinder61 1
+    400714: Room_Light:pCylinder62
+    400716: Room_Light:pCylinder62 1
+    400718: Room_Light:pCylinder63
+    400720: Room_Light:pCylinder64
+    400722: Room_Light:pCylinder65
+    400724: Room_Light:pCylinder66
+    400726: Room_Light:pCylinder7
+    400728: Room_Light:pCylinder8
+    400730: Room_Light:pCylinder9
+    400732: Room_Light:Pinsel01
+    400734: Room_Light:Pinsel010
+    400736: Room_Light:Pinsel011
+    400738: Room_Light:Pinsel02
+    400740: Room_Light:Pinsel03
+    400742: Room_Light:Pinsel04
+    400744: Room_Light:Pinsel05
+    400746: Room_Light:Pinsel06
+    400748: Room_Light:Pinsel07
+    400750: Room_Light:Pinsel08
+    400752: Room_Light:Pinsel09
+    400754: Room_Light:place3dTexture1
+    400756: Room_Light:place3dTexture2
+    400758: Room_Light:place3dTexture3
+    400760: Room_Light:place3dTexture4
+    400762: Room_Light:place3dTexture6
+    400764: Room_Light:pointLight1
+    400766: Room_Light:pointLight10
+    400768: Room_Light:pointLight11
+    400770: Room_Light:pointLight12
+    400772: Room_Light:pointLight13
+    400774: Room_Light:pointLight14
+    400776: Room_Light:pointLight15
+    400778: Room_Light:pointLight3
+    400780: Room_Light:pointLight5
+    400782: Room_Light:pointLight6
+    400784: Room_Light:pointLight7
+    400786: Room_Light:pointLight9
+    400788: Room_Light:polySurface10
+    400790: Room_Light:polySurface11
+    400792: Room_Light:polySurface12
+    400794: Room_Light:polySurface13
+    400796: Room_Light:polySurface14
+    400798: Room_Light:polySurface15
+    400800: Room_Light:polySurface16
+    400802: Room_Light:polySurface17
+    400804: Room_Light:polySurface2
+    400806: Room_Light:polySurface20
+    400808: Room_Light:polySurface21
+    400810: Room_Light:polySurface22
+    400812: Room_Light:polySurface23
+    400814: Room_Light:polySurface24
+    400816: Room_Light:polySurface25
+    400818: Room_Light:polySurface26
+    400820: Room_Light:polySurface27
+    400822: Room_Light:polySurface28
+    400824: Room_Light:polySurface29
+    400826: Room_Light:polySurface3
+    400828: Room_Light:polySurface30
+    400830: Room_Light:polySurface31
+    400832: Room_Light:polySurface33
+    400834: Room_Light:polySurface34
+    400836: Room_Light:polySurface35
+    400838: Room_Light:polySurface36
+    400840: Room_Light:polySurface37
+    400842: Room_Light:polySurface39
+    400844: Room_Light:polySurface39 1
+    400846: Room_Light:polySurface4
+    400848: Room_Light:polySurface4 1
+    400850: Room_Light:polySurface5
+    400852: Room_Light:polySurface5 1
+    400854: Room_Light:polySurface6
+    400856: Room_Light:polySurface7
+    400858: Room_Light:polySurface8
+    400860: Room_Light:polySurface9
+    400862: Room_Light:posters
+    400864: Room_Light:pPlane1
+    400866: Room_Light:pPlane2
+    400868: Room_Light:pPlane4
+    400870: Room_Light:pPlane5
+    400872: Room_Light:pPlane6
+    400874: Room_Light:pPlane7
+    400876: Room_Light:pPlane8
+    400878: Room_Light:pSphere1
+    400880: Room_Light:pSphere1 1
+    400882: Room_Light:pSphere2
+    400884: Room_Light:pSphere2 1
+    400886: Room_Light:pSphere3
+    400888: Room_Light:pSphere4
+    400890: Room_Light:pSphere5
+    400892: Room_Light:pSphere5 1
+    400894: Room_Light:pSphere5 10
+    400896: Room_Light:pSphere5 2
+    400898: Room_Light:pSphere5 3
+    400900: Room_Light:pSphere5 4
+    400902: Room_Light:pSphere5 5
+    400904: Room_Light:pSphere5 6
+    400906: Room_Light:pSphere5 7
+    400908: Room_Light:pSphere5 8
+    400910: Room_Light:pSphere5 9
+    400912: Room_Light:pSphere6
+    400914: Room_Light:pSphere7
+    400916: Room_Light:pSphere8
+    400918: Room_Light:pSphere9
+    400920: Room_Light:pTorus1
+    400922: Room_Light:pTorus1 1
+    400924: Room_Light:pTorus10
+    400926: Room_Light:pTorus11
+    400928: Room_Light:pTorus12
+    400930: Room_Light:pTorus13
+    400932: Room_Light:pTorus14
+    400934: Room_Light:pTorus15
+    400936: Room_Light:pTorus16
+    400938: Room_Light:pTorus17
+    400940: Room_Light:pTorus18
+    400942: Room_Light:pTorus19
+    400944: Room_Light:pTorus2
+    400946: Room_Light:pTorus2 1
+    400948: Room_Light:pTorus20
+    400950: Room_Light:pTorus21
+    400952: Room_Light:pTorus22
+    400954: Room_Light:pTorus23
+    400956: Room_Light:pTorus24
+    400958: Room_Light:pTorus25
+    400960: Room_Light:pTorus26
+    400962: Room_Light:pTorus27
+    400964: Room_Light:pTorus28
+    400966: Room_Light:pTorus29
+    400968: Room_Light:pTorus3
+    400970: Room_Light:pTorus3 1
+    400972: Room_Light:pTorus30
+    400974: Room_Light:pTorus31
+    400976: Room_Light:pTorus32
+    400978: Room_Light:pTorus33
+    400980: Room_Light:pTorus34
+    400982: Room_Light:pTorus35
+    400984: Room_Light:pTorus36
+    400986: Room_Light:pTorus37
+    400988: Room_Light:pTorus38
+    400990: Room_Light:pTorus38 1
+    400992: Room_Light:pTorus39
+    400994: Room_Light:pTorus39 1
+    400996: Room_Light:pTorus4
+    400998: Room_Light:pTorus4 1
+    401000: Room_Light:pTorus40
+    401002: Room_Light:pTorus40 1
+    401004: Room_Light:pTorus41
+    401006: Room_Light:pTorus41 1
+    401008: Room_Light:pTorus42
+    401010: Room_Light:pTorus42 1
+    401012: Room_Light:pTorus43
+    401014: Room_Light:pTorus43 1
+    401016: Room_Light:pTorus5
+    401018: Room_Light:pTorus5 1
+    401020: Room_Light:pTorus6
+    401022: Room_Light:pTorus6 1
+    401024: Room_Light:pTorus7
+    401026: Room_Light:pTorus7 1
+    401028: Room_Light:pTorus8
+    401030: Room_Light:pTorus8 1
+    401032: Room_Light:pTorus9
+    401034: Room_Light:pTorus9 1
+    401036: Room_Light:Pulli
+    401038: Room_Light:rahmen
+    401040: Room_Light:rahmen 1
+    401042: Room_Light:raum
+    401044: Room_Light:RaumPulli
+    401046: Room_Light:RaumSocke
+    401048: Room_Light:RaumSocke02
+    401050: Room_Light:room
+    401052: Room_Light:Room1
+    401054: Room_Light:Scharnier
+    401056: Room_Light:Scharnier 1
+    401058: Room_Light:Scharnier1
+    401060: Room_Light:Scharnier1 1
+    401062: Room_Light:Schirm
+    401064: Room_Light:Schrank
+    401066: Room_Light:Schrim
+    401068: Room_Light:Schulheft
+    401070: Room_Light:Schulheft1
+    401072: Room_Light:Schulheft2
+    401074: Room_Light:Schulheft3
+    401076: Room_Light:Schulheft4
+    401078: Room_Light:shoe_l_smooth
+    401080: Room_Light:shoe_r_smooth
+    401082: Room_Light:Socke
+    401084: Room_Light:Socke1
+    401086: Room_Light:spotLight4
+    401088: Room_Light:Steckdose
+    401090: Room_Light:stuff
+    401092: Room_Light:stuff2
+    401094: Room_Light:syCloth90ShapeTrf
+    401096: Room_Light:Teppich
+    401098: Room_Light:Tron_Bike_B
+    401100: Room_Light:Tron_Bike_R
+    401102: Room_Light:Tuer
+    401104: Room_Light:Unterlage
+    401106: Room_Light:window
+    401108: Room_Light:Wuerfel01
+    401110: Room_Light:Wuerfel02
+    401112: Room_Light:Zeichenbecher
+    2000000: Room_Light:camera1
+    2100000: Room_Light_Raum_BettGestell
+    2100002: Room_Light_blinn1
+    2100004: Room_Light_Raum_BettSticker
+    2100006: Room_Light_Raum_Bettdecke
+    2100008: lambert1
+    2100010: Room_Light_Raum_BettLaken
+    2100012: Room_Light_Raum_Socken02
+    2100014: Room_Light_Raum_Schrank
+    2100016: Room_Light_Raum_Stift_5
+    2100018: Room_Light_Raum_Stift_6
+    2100020: Room_Light_Raum_Stift_2
+    2100022: Room_Light_Raum_Stift_4
+    2100024: Room_Light_Raum_Schrank1
+    2100026: Room_Light_Raum_Schreibtisch
+    2100028: Room_Light_Raum_SchreibtischSchubladen
+    2100030: Room_Light_Raum_Stift_3
+    2100032: Room_Light_Raum_Stift_1
+    2100034: Room_Light_Raum_Buch03
+    2100036: Room_Light_Raum_Buch06
+    2100038: Room_Light_Raum_Buch05
+    2100040: Room_Light_Raum_Buch07
+    2100042: Room_Light_Jack_Stiefel
+    2100044: Room_Light_Raum_Glasmurmeln
+    2100046: Room_Light_Raum_Schreib_Unterlage
+    2100048: Room_Light_Raum_Zeichnung05
+    2100050: Room_Light_Raum_Zeichnung06
+    2100052: Room_Light_Raum_Zeichnung02
+    2100054: Room_Light_Raum_Zeichnung03
+    2100056: Room_Light_Raum_Zeichnung04
+    2100058: Room_Light_Raum_Becher
+    2100060: Room_Light_Raum_Heizung
+    2100062: Room_Light_Raum_Stift_7
+    2100064: Room_Light_Raum_StuhlMammut
+    2100066: Room_Light_Raum_Zeichnung01
+    2100068: Room_Light_Raum_Chrom
+    2100070: Room_Light_Raum_Metall_Lampe
+    2100072: Room_Light_Raum_Plaste_weiss
+    2100074: Room_Light_Raum_Farbtpfe
+    2100076: Room_Light_Raum_Buch02
+    2100078: Room_Light_Raum_Buch04
+    2100080: Room_Light_Raum_Buch01
+    2100082: Room_Light_Raum_Zeichnung07
+    2100084: Room_Light_Raum_Glass
+    2100086: Room_Light_Raum_Holzbahn
+    2100088: Room_Light_Raum_Gardine
+    2100090: Room_Light_Raum_Stuhl_Leder
+    2100092: Room_Light_Raum_Stuhl_Chrom
+    2100094: Room_Light_Raum_KLeidung01
+    2100096: Room_Light_Raum_Socken01
+    2100098: Room_Light_Raum_Poster1
+    2100100: Room_Light_Raum_Poster2
+    2100102: Room_Light_Raum_Poster3
+    2100104: Room_Light_Raum_Truhe
+    2100106: Room_Light_Raum_Truhe_Ohne
+    2100108: Room_Light_Raum_Tuer1
+    2100110: Room_Light_Raum_Tuer
+    2100112: Room_Light_Jack_Hand
+    2100114: "Room_Light_Jack_K\u0650rper"
+    2100116: Room_Light_Jack_Kopf
+    2100118: Room_Light_Raum_KLeidung03
+    2100120: Room_Light_Raum_StuhlMammut1
+    2100122: Room_Light_Raum_DeckenLampe
+    2100124: Room_Light_Raum_DeckenLampe_Glueh
+    2100126: Room_Light_Raum_Mondlampe
+    2100128: Room_Light_Tron_Rot
+    2100130: Room_Light_Tron_Schwarz
+    2100132: Room_Light_Tron_Blau
+    2100134: Room_Light_Augen
+    2100136: Room_Light_Raum_teppich
+    2100138: Room_Light_Raum_Sterne
+    2100140: Room_Light_Raum_Mond
+    2100142: "Room_Light_Raum_W\xFCrfel"
+    2100144: Room_Light_Raum_Ball
+    2100146: Room_Light_Raum_KLeidung02
+    2100148: Room_Light_Raum_TapeteWand
+    2100150: Room_Light_Raum_TapeteDecke
+    2100152: Room_Light_Raum_Boden
+    2100154: Room_Light_Raum_Besen
+    2100156: Room_Light_Raum_besen
+    2300000: Room_Light:Ball
+    2300002: Room_Light:becher
+    2300004: Room_Light:becher1
+    2300006: Room_Light:becher2
+    2300008: Room_Light:Blatt01
+    2300010: Room_Light:Blatt02
+    2300012: Room_Light:Blatt03
+    2300014: Room_Light:Blatt04
+    2300016: Room_Light:Blatt05
+    2300018: Room_Light:Blatt06
+    2300020: Room_Light:Body_smooth
+    2300022: Room_Light:buch
+    2300024: Room_Light:Buch01
+    2300026: Room_Light:Buch010
+    2300028: Room_Light:Buch02
+    2300030: Room_Light:Buch03
+    2300032: Room_Light:Buch04
+    2300034: Room_Light:Buch05
+    2300036: Room_Light:Buch06
+    2300038: Room_Light:Buch07
+    2300040: Room_Light:Buch08
+    2300042: Room_Light:Buch09
+    2300044: Room_Light:buch1
+    2300046: Room_Light:buch2
+    2300048: Room_Light:buch3
+    2300050: Room_Light:Collider
+    2300052: Room_Light:Collider1
+    2300054: Room_Light:Decke_Base
+    2300056: Room_Light:Decke_Smooth
+    2300058: Room_Light:Farbtopf01
+    2300060: Room_Light:Farbtopf02
+    2300062: Room_Light:Farbtopf03
+    2300064: Room_Light:Farbtopf04
+    2300066: Room_Light:Farbtopf05
+    2300068: Room_Light:Farbtopf06
+    2300070: Room_Light:Farbtopf07
+    2300072: Room_Light:Fassung
+    2300074: Room_Light:fassung
+    2300076: Room_Light:fassung 1
+    2300078: Room_Light:Gardine_base
+    2300080: Room_Light:GardineL
+    2300082: Room_Light:GardineR
+    2300084: Room_Light:Glas
+    2300086: Room_Light:glas
+    2300088: Room_Light:glas 1
+    2300090: Room_Light:glas 2
+    2300092: Room_Light:griff
+    2300094: Room_Light:griff 1
+    2300096: Room_Light:griff1
+    2300098: Room_Light:Halstuch_smooth
+    2300100: Room_Light:Halstuchhalter
+    2300102: Room_Light:hand_l_smooth
+    2300104: Room_Light:Hand_r_smooth
+    2300106: Room_Light:Head_baseCPSproxy1
+    2300108: Room_Light:Himmel
+    2300110: Room_Light:Kissen_Base
+    2300112: Room_Light:Kissen_SMooth
+    2300114: Room_Light:Laken_Smooth
+    2300116: Room_Light:mohawkDeepRed1Main
+    2300118: Room_Light:Mond
+    2300120: Room_Light:Murmel01
+    2300122: Room_Light:Murmel010
+    2300124: Room_Light:Murmel011
+    2300126: Room_Light:Murmel012
+    2300128: Room_Light:Murmel02
+    2300130: Room_Light:Murmel03
+    2300132: Room_Light:Murmel04
+    2300134: Room_Light:Murmel05
+    2300136: Room_Light:Murmel06
+    2300138: Room_Light:Murmel07
+    2300140: Room_Light:Murmel08
+    2300142: Room_Light:Murmel09
+    2300144: Room_Light:Nadel01
+    2300146: Room_Light:Nadel010
+    2300148: Room_Light:Nadel011
+    2300150: Room_Light:Nadel02
+    2300152: Room_Light:Nadel03
+    2300154: Room_Light:Nadel04
+    2300156: Room_Light:Nadel05
+    2300158: Room_Light:Nadel06
+    2300160: Room_Light:Nadel07
+    2300162: Room_Light:Nadel08
+    2300164: Room_Light:Nadel09
+    2300166: Room_Light:nurbsToPoly1
+    2300168: Room_Light:nurbsToPoly1 1
+    2300170: Room_Light:nurbsToPoly1 2
+    2300172: Room_Light:nurbsToPoly1 3
+    2300174: Room_Light:nurbsToPoly1 4
+    2300176: Room_Light:nurbsToPoly1 5
+    2300178: Room_Light:nurbsToPoly10
+    2300180: Room_Light:nurbsToPoly10 1
+    2300182: Room_Light:nurbsToPoly10 2
+    2300184: Room_Light:nurbsToPoly11
+    2300186: Room_Light:nurbsToPoly11 1
+    2300188: Room_Light:nurbsToPoly11 2
+    2300190: Room_Light:nurbsToPoly12
+    2300192: Room_Light:nurbsToPoly12 1
+    2300194: Room_Light:nurbsToPoly12 2
+    2300196: Room_Light:nurbsToPoly13
+    2300198: Room_Light:nurbsToPoly13 1
+    2300200: Room_Light:nurbsToPoly13 2
+    2300202: Room_Light:nurbsToPoly14
+    2300204: Room_Light:nurbsToPoly14 1
+    2300206: Room_Light:nurbsToPoly14 2
+    2300208: Room_Light:nurbsToPoly15
+    2300210: Room_Light:nurbsToPoly15 1
+    2300212: Room_Light:nurbsToPoly15 2
+    2300214: Room_Light:nurbsToPoly16
+    2300216: Room_Light:nurbsToPoly16 1
+    2300218: Room_Light:nurbsToPoly16 2
+    2300220: Room_Light:nurbsToPoly16 3
+    2300222: Room_Light:nurbsToPoly17
+    2300224: Room_Light:nurbsToPoly17 1
+    2300226: Room_Light:nurbsToPoly17 2
+    2300228: Room_Light:nurbsToPoly17 3
+    2300230: Room_Light:nurbsToPoly18
+    2300232: Room_Light:nurbsToPoly18 1
+    2300234: Room_Light:nurbsToPoly18 2
+    2300236: Room_Light:nurbsToPoly18 3
+    2300238: Room_Light:nurbsToPoly19
+    2300240: Room_Light:nurbsToPoly19 1
+    2300242: Room_Light:nurbsToPoly19 2
+    2300244: Room_Light:nurbsToPoly19 3
+    2300246: Room_Light:nurbsToPoly2
+    2300248: Room_Light:nurbsToPoly2 1
+    2300250: Room_Light:nurbsToPoly2 2
+    2300252: Room_Light:nurbsToPoly20
+    2300254: Room_Light:nurbsToPoly20 1
+    2300256: Room_Light:nurbsToPoly20 2
+    2300258: Room_Light:nurbsToPoly21
+    2300260: Room_Light:nurbsToPoly21 1
+    2300262: Room_Light:nurbsToPoly22
+    2300264: Room_Light:nurbsToPoly22 1
+    2300266: Room_Light:nurbsToPoly23
+    2300268: Room_Light:nurbsToPoly23 1
+    2300270: Room_Light:nurbsToPoly24
+    2300272: Room_Light:nurbsToPoly24 1
+    2300274: Room_Light:nurbsToPoly24 2
+    2300276: Room_Light:nurbsToPoly25
+    2300278: Room_Light:nurbsToPoly26
+    2300280: Room_Light:nurbsToPoly27
+    2300282: Room_Light:nurbsToPoly28
+    2300284: Room_Light:nurbsToPoly3
+    2300286: Room_Light:nurbsToPoly3 1
+    2300288: Room_Light:nurbsToPoly3 2
+    2300290: Room_Light:nurbsToPoly4
+    2300292: Room_Light:nurbsToPoly4 1
+    2300294: Room_Light:nurbsToPoly4 2
+    2300296: Room_Light:nurbsToPoly5
+    2300298: Room_Light:nurbsToPoly5 1
+    2300300: Room_Light:nurbsToPoly5 2
+    2300302: Room_Light:nurbsToPoly6
+    2300304: Room_Light:nurbsToPoly6 1
+    2300306: Room_Light:nurbsToPoly6 2
+    2300308: Room_Light:nurbsToPoly7
+    2300310: Room_Light:nurbsToPoly7 1
+    2300312: Room_Light:nurbsToPoly7 2
+    2300314: Room_Light:nurbsToPoly8
+    2300316: Room_Light:nurbsToPoly8 1
+    2300318: Room_Light:nurbsToPoly8 2
+    2300320: Room_Light:nurbsToPoly9
+    2300322: Room_Light:nurbsToPoly9 1
+    2300324: Room_Light:nurbsToPoly9 2
+    2300326: Room_Light:Papierkorb
+    2300328: Room_Light:pCube1
+    2300330: Room_Light:pCube10
+    2300332: Room_Light:pCube11
+    2300334: Room_Light:pCube12
+    2300336: Room_Light:pCube13
+    2300338: Room_Light:pCube14
+    2300340: Room_Light:pCube16
+    2300342: Room_Light:pCube17
+    2300344: Room_Light:pCube18
+    2300346: Room_Light:pCube19
+    2300348: Room_Light:pCube19 1
+    2300350: Room_Light:pCube19 2
+    2300352: Room_Light:pCube19 3
+    2300354: Room_Light:pCube2
+    2300356: Room_Light:pCube20
+    2300358: Room_Light:pCube21
+    2300360: Room_Light:pCube22
+    2300362: Room_Light:pCube23
+    2300364: Room_Light:pCube24
+    2300366: Room_Light:pCube25
+    2300368: Room_Light:pCube26
+    2300370: Room_Light:pCube27
+    2300372: Room_Light:pCube3
+    2300374: Room_Light:pCube30
+    2300376: Room_Light:pCube31
+    2300378: Room_Light:pCube32
+    2300380: Room_Light:pCube33
+    2300382: Room_Light:pCube34
+    2300384: Room_Light:pCube35
+    2300386: Room_Light:pCube36
+    2300388: Room_Light:pCube37
+    2300390: Room_Light:pCube38
+    2300392: Room_Light:pCube39
+    2300394: Room_Light:pCube3CPSproxy1
+    2300396: Room_Light:pCube3CPSunite1
+    2300398: Room_Light:pCube4
+    2300400: Room_Light:pCube40
+    2300402: Room_Light:pCube41
+    2300404: Room_Light:pCube42
+    2300406: Room_Light:pCube43
+    2300408: Room_Light:pCube43 1
+    2300410: Room_Light:pCube44
+    2300412: Room_Light:pCube45
+    2300414: Room_Light:pCube46
+    2300416: Room_Light:pCube47
+    2300418: Room_Light:pCube48
+    2300420: Room_Light:pCube49
+    2300422: Room_Light:pCube5
+    2300424: Room_Light:pCube50
+    2300426: Room_Light:pCube51
+    2300428: Room_Light:pCube52
+    2300430: Room_Light:pCube53
+    2300432: Room_Light:pCube54
+    2300434: Room_Light:pCube55
+    2300436: Room_Light:pCube56
+    2300438: Room_Light:pCube57
+    2300440: Room_Light:pCube58
+    2300442: Room_Light:pCube59CPSunite1
+    2300444: Room_Light:pCube6
+    2300446: Room_Light:pCube7
+    2300448: Room_Light:pCube8
+    2300450: Room_Light:pCube9
+    2300452: Room_Light:pCylinder1
+    2300454: Room_Light:pCylinder10
+    2300456: Room_Light:pCylinder11
+    2300458: Room_Light:pCylinder12
+    2300460: Room_Light:pCylinder13
+    2300462: Room_Light:pCylinder14
+    2300464: Room_Light:pCylinder15
+    2300466: Room_Light:pCylinder16
+    2300468: Room_Light:pCylinder17
+    2300470: Room_Light:pCylinder18
+    2300472: Room_Light:pCylinder19
+    2300474: Room_Light:pCylinder19 1
+    2300476: Room_Light:pCylinder19 10
+    2300478: Room_Light:pCylinder19 11
+    2300480: Room_Light:pCylinder19 2
+    2300482: Room_Light:pCylinder19 3
+    2300484: Room_Light:pCylinder19 4
+    2300486: Room_Light:pCylinder19 5
+    2300488: Room_Light:pCylinder19 6
+    2300490: Room_Light:pCylinder19 7
+    2300492: Room_Light:pCylinder19 8
+    2300494: Room_Light:pCylinder19 9
+    2300496: Room_Light:pCylinder2
+    2300498: Room_Light:pCylinder20
+    2300500: Room_Light:pCylinder21
+    2300502: Room_Light:pCylinder22
+    2300504: Room_Light:pCylinder23
+    2300506: Room_Light:pCylinder24
+    2300508: Room_Light:pCylinder25
+    2300510: Room_Light:pCylinder26
+    2300512: Room_Light:pCylinder27
+    2300514: Room_Light:pCylinder28
+    2300516: Room_Light:pCylinder29
+    2300518: Room_Light:pCylinder3
+    2300520: Room_Light:pCylinder30
+    2300522: Room_Light:pCylinder31
+    2300524: Room_Light:pCylinder32
+    2300526: Room_Light:pCylinder33
+    2300528: Room_Light:pCylinder34
+    2300530: Room_Light:pCylinder35
+    2300532: Room_Light:pCylinder36
+    2300534: Room_Light:pCylinder37
+    2300536: Room_Light:pCylinder38
+    2300538: Room_Light:pCylinder39
+    2300540: Room_Light:pCylinder4
+    2300542: Room_Light:pCylinder40
+    2300544: Room_Light:pCylinder41
+    2300546: Room_Light:pCylinder42
+    2300548: Room_Light:pCylinder43
+    2300550: Room_Light:pCylinder44
+    2300552: Room_Light:pCylinder45
+    2300554: Room_Light:pCylinder46
+    2300556: Room_Light:pCylinder47
+    2300558: Room_Light:pCylinder48
+    2300560: Room_Light:pCylinder49
+    2300562: Room_Light:pCylinder5
+    2300564: Room_Light:pCylinder5 1
+    2300566: Room_Light:pCylinder50
+    2300568: Room_Light:pCylinder51
+    2300570: Room_Light:pCylinder52
+    2300572: Room_Light:pCylinder53
+    2300574: Room_Light:pCylinder54
+    2300576: Room_Light:pCylinder55
+    2300578: Room_Light:pCylinder56
+    2300580: Room_Light:pCylinder57
+    2300582: Room_Light:pCylinder57 1
+    2300584: Room_Light:pCylinder58
+    2300586: Room_Light:pCylinder58 1
+    2300588: Room_Light:pCylinder59
+    2300590: Room_Light:pCylinder59 1
+    2300592: Room_Light:pCylinder6
+    2300594: Room_Light:pCylinder60
+    2300596: Room_Light:pCylinder60 1
+    2300598: Room_Light:pCylinder61
+    2300600: Room_Light:pCylinder61 1
+    2300602: Room_Light:pCylinder62
+    2300604: Room_Light:pCylinder62 1
+    2300606: Room_Light:pCylinder63
+    2300608: Room_Light:pCylinder64
+    2300610: Room_Light:pCylinder65
+    2300612: Room_Light:pCylinder66
+    2300614: Room_Light:pCylinder7
+    2300616: Room_Light:pCylinder8
+    2300618: Room_Light:pCylinder9
+    2300620: Room_Light:polySurface10
+    2300622: Room_Light:polySurface11
+    2300624: Room_Light:polySurface12
+    2300626: Room_Light:polySurface13
+    2300628: Room_Light:polySurface14
+    2300630: Room_Light:polySurface15
+    2300632: Room_Light:polySurface16
+    2300634: Room_Light:polySurface17
+    2300636: Room_Light:polySurface2
+    2300638: Room_Light:polySurface20
+    2300640: Room_Light:polySurface21
+    2300642: Room_Light:polySurface22
+    2300644: Room_Light:polySurface23
+    2300646: Room_Light:polySurface24
+    2300648: Room_Light:polySurface25
+    2300650: Room_Light:polySurface26
+    2300652: Room_Light:polySurface27
+    2300654: Room_Light:polySurface28
+    2300656: Room_Light:polySurface29
+    2300658: Room_Light:polySurface3
+    2300660: Room_Light:polySurface30
+    2300662: Room_Light:polySurface31
+    2300664: Room_Light:polySurface33
+    2300666: Room_Light:polySurface34
+    2300668: Room_Light:polySurface35
+    2300670: Room_Light:polySurface36
+    2300672: Room_Light:polySurface37
+    2300674: Room_Light:polySurface39
+    2300676: Room_Light:polySurface39 1
+    2300678: Room_Light:polySurface4
+    2300680: Room_Light:polySurface4 1
+    2300682: Room_Light:polySurface5
+    2300684: Room_Light:polySurface5 1
+    2300686: Room_Light:polySurface6
+    2300688: Room_Light:polySurface7
+    2300690: Room_Light:polySurface8
+    2300692: Room_Light:polySurface9
+    2300694: Room_Light:pPlane1
+    2300696: Room_Light:pPlane2
+    2300698: Room_Light:pPlane4
+    2300700: Room_Light:pPlane5
+    2300702: Room_Light:pPlane6
+    2300704: Room_Light:pPlane7
+    2300706: Room_Light:pPlane8
+    2300708: Room_Light:pSphere1
+    2300710: Room_Light:pSphere1 1
+    2300712: Room_Light:pSphere2
+    2300714: Room_Light:pSphere2 1
+    2300716: Room_Light:pSphere3
+    2300718: Room_Light:pSphere4
+    2300720: Room_Light:pSphere5
+    2300722: Room_Light:pSphere5 1
+    2300724: Room_Light:pSphere5 10
+    2300726: Room_Light:pSphere5 2
+    2300728: Room_Light:pSphere5 3
+    2300730: Room_Light:pSphere5 4
+    2300732: Room_Light:pSphere5 5
+    2300734: Room_Light:pSphere5 6
+    2300736: Room_Light:pSphere5 7
+    2300738: Room_Light:pSphere5 8
+    2300740: Room_Light:pSphere5 9
+    2300742: Room_Light:pSphere6
+    2300744: Room_Light:pSphere7
+    2300746: Room_Light:pSphere8
+    2300748: Room_Light:pSphere9
+    2300750: Room_Light:pTorus1
+    2300752: Room_Light:pTorus1 1
+    2300754: Room_Light:pTorus10
+    2300756: Room_Light:pTorus11
+    2300758: Room_Light:pTorus12
+    2300760: Room_Light:pTorus13
+    2300762: Room_Light:pTorus14
+    2300764: Room_Light:pTorus15
+    2300766: Room_Light:pTorus16
+    2300768: Room_Light:pTorus17
+    2300770: Room_Light:pTorus18
+    2300772: Room_Light:pTorus19
+    2300774: Room_Light:pTorus2
+    2300776: Room_Light:pTorus2 1
+    2300778: Room_Light:pTorus20
+    2300780: Room_Light:pTorus21
+    2300782: Room_Light:pTorus22
+    2300784: Room_Light:pTorus23
+    2300786: Room_Light:pTorus24
+    2300788: Room_Light:pTorus25
+    2300790: Room_Light:pTorus26
+    2300792: Room_Light:pTorus27
+    2300794: Room_Light:pTorus28
+    2300796: Room_Light:pTorus29
+    2300798: Room_Light:pTorus3
+    2300800: Room_Light:pTorus3 1
+    2300802: Room_Light:pTorus30
+    2300804: Room_Light:pTorus31
+    2300806: Room_Light:pTorus32
+    2300808: Room_Light:pTorus33
+    2300810: Room_Light:pTorus34
+    2300812: Room_Light:pTorus35
+    2300814: Room_Light:pTorus36
+    2300816: Room_Light:pTorus37
+    2300818: Room_Light:pTorus38
+    2300820: Room_Light:pTorus38 1
+    2300822: Room_Light:pTorus39
+    2300824: Room_Light:pTorus39 1
+    2300826: Room_Light:pTorus4
+    2300828: Room_Light:pTorus4 1
+    2300830: Room_Light:pTorus40
+    2300832: Room_Light:pTorus40 1
+    2300834: Room_Light:pTorus41
+    2300836: Room_Light:pTorus41 1
+    2300838: Room_Light:pTorus42
+    2300840: Room_Light:pTorus42 1
+    2300842: Room_Light:pTorus43
+    2300844: Room_Light:pTorus43 1
+    2300846: Room_Light:pTorus5
+    2300848: Room_Light:pTorus5 1
+    2300850: Room_Light:pTorus6
+    2300852: Room_Light:pTorus6 1
+    2300854: Room_Light:pTorus7
+    2300856: Room_Light:pTorus7 1
+    2300858: Room_Light:pTorus8
+    2300860: Room_Light:pTorus8 1
+    2300862: Room_Light:pTorus9
+    2300864: Room_Light:pTorus9 1
+    2300866: Room_Light:Pulli
+    2300868: Room_Light:rahmen
+    2300870: Room_Light:rahmen 1
+    2300872: Room_Light:raum
+    2300874: Room_Light:RaumPulli
+    2300876: Room_Light:RaumSocke
+    2300878: Room_Light:RaumSocke02
+    2300880: Room_Light:Scharnier
+    2300882: Room_Light:Scharnier 1
+    2300884: Room_Light:Scharnier1
+    2300886: Room_Light:Scharnier1 1
+    2300888: Room_Light:Schirm
+    2300890: Room_Light:Schrim
+    2300892: Room_Light:Schulheft
+    2300894: Room_Light:Schulheft1
+    2300896: Room_Light:Schulheft2
+    2300898: Room_Light:Schulheft3
+    2300900: Room_Light:Schulheft4
+    2300902: Room_Light:shoe_l_smooth
+    2300904: Room_Light:shoe_r_smooth
+    2300906: Room_Light:Socke
+    2300908: Room_Light:Socke1
+    2300910: Room_Light:Steckdose
+    2300912: Room_Light:syCloth90ShapeTrf
+    2300914: Room_Light:Teppich
+    2300916: Room_Light:Unterlage
+    2300918: Room_Light:Wuerfel01
+    2300920: Room_Light:Wuerfel02
+    3300000: Room_Light:Ball
+    3300002: Room_Light:becher
+    3300004: Room_Light:becher1
+    3300006: Room_Light:becher2
+    3300008: Room_Light:Blatt01
+    3300010: Room_Light:Blatt02
+    3300012: Room_Light:Blatt03
+    3300014: Room_Light:Blatt04
+    3300016: Room_Light:Blatt05
+    3300018: Room_Light:Blatt06
+    3300020: Room_Light:Body_smooth
+    3300022: Room_Light:buch
+    3300024: Room_Light:Buch01
+    3300026: Room_Light:Buch010
+    3300028: Room_Light:Buch02
+    3300030: Room_Light:Buch03
+    3300032: Room_Light:Buch04
+    3300034: Room_Light:Buch05
+    3300036: Room_Light:Buch06
+    3300038: Room_Light:Buch07
+    3300040: Room_Light:Buch08
+    3300042: Room_Light:Buch09
+    3300044: Room_Light:buch1
+    3300046: Room_Light:buch2
+    3300048: Room_Light:buch3
+    3300050: Room_Light:Collider
+    3300052: Room_Light:Collider1
+    3300054: Room_Light:Decke_Base
+    3300056: Room_Light:Decke_Smooth
+    3300058: Room_Light:Farbtopf01
+    3300060: Room_Light:Farbtopf02
+    3300062: Room_Light:Farbtopf03
+    3300064: Room_Light:Farbtopf04
+    3300066: Room_Light:Farbtopf05
+    3300068: Room_Light:Farbtopf06
+    3300070: Room_Light:Farbtopf07
+    3300072: Room_Light:Fassung
+    3300074: Room_Light:fassung
+    3300076: Room_Light:fassung 1
+    3300078: Room_Light:Gardine_base
+    3300080: Room_Light:GardineL
+    3300082: Room_Light:GardineR
+    3300084: Room_Light:Glas
+    3300086: Room_Light:glas
+    3300088: Room_Light:glas 1
+    3300090: Room_Light:glas 2
+    3300092: Room_Light:griff
+    3300094: Room_Light:griff 1
+    3300096: Room_Light:griff1
+    3300098: Room_Light:Halstuch_smooth
+    3300100: Room_Light:Halstuchhalter
+    3300102: Room_Light:hand_l_smooth
+    3300104: Room_Light:Hand_r_smooth
+    3300106: Room_Light:Head_baseCPSproxy1
+    3300108: Room_Light:Himmel
+    3300110: Room_Light:Kissen_Base
+    3300112: Room_Light:Kissen_SMooth
+    3300114: Room_Light:Laken_Smooth
+    3300116: Room_Light:mohawkDeepRed1Main
+    3300118: Room_Light:Mond
+    3300120: Room_Light:Murmel01
+    3300122: Room_Light:Murmel010
+    3300124: Room_Light:Murmel011
+    3300126: Room_Light:Murmel012
+    3300128: Room_Light:Murmel02
+    3300130: Room_Light:Murmel03
+    3300132: Room_Light:Murmel04
+    3300134: Room_Light:Murmel05
+    3300136: Room_Light:Murmel06
+    3300138: Room_Light:Murmel07
+    3300140: Room_Light:Murmel08
+    3300142: Room_Light:Murmel09
+    3300144: Room_Light:Nadel01
+    3300146: Room_Light:Nadel010
+    3300148: Room_Light:Nadel011
+    3300150: Room_Light:Nadel02
+    3300152: Room_Light:Nadel03
+    3300154: Room_Light:Nadel04
+    3300156: Room_Light:Nadel05
+    3300158: Room_Light:Nadel06
+    3300160: Room_Light:Nadel07
+    3300162: Room_Light:Nadel08
+    3300164: Room_Light:Nadel09
+    3300166: Room_Light:nurbsToPoly1
+    3300168: Room_Light:nurbsToPoly1 1
+    3300170: Room_Light:nurbsToPoly1 2
+    3300172: Room_Light:nurbsToPoly1 3
+    3300174: Room_Light:nurbsToPoly1 4
+    3300176: Room_Light:nurbsToPoly1 5
+    3300178: Room_Light:nurbsToPoly10
+    3300180: Room_Light:nurbsToPoly10 1
+    3300182: Room_Light:nurbsToPoly10 2
+    3300184: Room_Light:nurbsToPoly11
+    3300186: Room_Light:nurbsToPoly11 1
+    3300188: Room_Light:nurbsToPoly11 2
+    3300190: Room_Light:nurbsToPoly12
+    3300192: Room_Light:nurbsToPoly12 1
+    3300194: Room_Light:nurbsToPoly12 2
+    3300196: Room_Light:nurbsToPoly13
+    3300198: Room_Light:nurbsToPoly13 1
+    3300200: Room_Light:nurbsToPoly13 2
+    3300202: Room_Light:nurbsToPoly14
+    3300204: Room_Light:nurbsToPoly14 1
+    3300206: Room_Light:nurbsToPoly14 2
+    3300208: Room_Light:nurbsToPoly15
+    3300210: Room_Light:nurbsToPoly15 1
+    3300212: Room_Light:nurbsToPoly15 2
+    3300214: Room_Light:nurbsToPoly16
+    3300216: Room_Light:nurbsToPoly16 1
+    3300218: Room_Light:nurbsToPoly16 2
+    3300220: Room_Light:nurbsToPoly16 3
+    3300222: Room_Light:nurbsToPoly17
+    3300224: Room_Light:nurbsToPoly17 1
+    3300226: Room_Light:nurbsToPoly17 2
+    3300228: Room_Light:nurbsToPoly17 3
+    3300230: Room_Light:nurbsToPoly18
+    3300232: Room_Light:nurbsToPoly18 1
+    3300234: Room_Light:nurbsToPoly18 2
+    3300236: Room_Light:nurbsToPoly18 3
+    3300238: Room_Light:nurbsToPoly19
+    3300240: Room_Light:nurbsToPoly19 1
+    3300242: Room_Light:nurbsToPoly19 2
+    3300244: Room_Light:nurbsToPoly19 3
+    3300246: Room_Light:nurbsToPoly2
+    3300248: Room_Light:nurbsToPoly2 1
+    3300250: Room_Light:nurbsToPoly2 2
+    3300252: Room_Light:nurbsToPoly20
+    3300254: Room_Light:nurbsToPoly20 1
+    3300256: Room_Light:nurbsToPoly20 2
+    3300258: Room_Light:nurbsToPoly21
+    3300260: Room_Light:nurbsToPoly21 1
+    3300262: Room_Light:nurbsToPoly22
+    3300264: Room_Light:nurbsToPoly22 1
+    3300266: Room_Light:nurbsToPoly23
+    3300268: Room_Light:nurbsToPoly23 1
+    3300270: Room_Light:nurbsToPoly24
+    3300272: Room_Light:nurbsToPoly24 1
+    3300274: Room_Light:nurbsToPoly24 2
+    3300276: Room_Light:nurbsToPoly25
+    3300278: Room_Light:nurbsToPoly26
+    3300280: Room_Light:nurbsToPoly27
+    3300282: Room_Light:nurbsToPoly28
+    3300284: Room_Light:nurbsToPoly3
+    3300286: Room_Light:nurbsToPoly3 1
+    3300288: Room_Light:nurbsToPoly3 2
+    3300290: Room_Light:nurbsToPoly4
+    3300292: Room_Light:nurbsToPoly4 1
+    3300294: Room_Light:nurbsToPoly4 2
+    3300296: Room_Light:nurbsToPoly5
+    3300298: Room_Light:nurbsToPoly5 1
+    3300300: Room_Light:nurbsToPoly5 2
+    3300302: Room_Light:nurbsToPoly6
+    3300304: Room_Light:nurbsToPoly6 1
+    3300306: Room_Light:nurbsToPoly6 2
+    3300308: Room_Light:nurbsToPoly7
+    3300310: Room_Light:nurbsToPoly7 1
+    3300312: Room_Light:nurbsToPoly7 2
+    3300314: Room_Light:nurbsToPoly8
+    3300316: Room_Light:nurbsToPoly8 1
+    3300318: Room_Light:nurbsToPoly8 2
+    3300320: Room_Light:nurbsToPoly9
+    3300322: Room_Light:nurbsToPoly9 1
+    3300324: Room_Light:nurbsToPoly9 2
+    3300326: Room_Light:Papierkorb
+    3300328: Room_Light:pCube1
+    3300330: Room_Light:pCube10
+    3300332: Room_Light:pCube11
+    3300334: Room_Light:pCube12
+    3300336: Room_Light:pCube13
+    3300338: Room_Light:pCube14
+    3300340: Room_Light:pCube16
+    3300342: Room_Light:pCube17
+    3300344: Room_Light:pCube18
+    3300346: Room_Light:pCube19
+    3300348: Room_Light:pCube19 1
+    3300350: Room_Light:pCube19 2
+    3300352: Room_Light:pCube19 3
+    3300354: Room_Light:pCube2
+    3300356: Room_Light:pCube20
+    3300358: Room_Light:pCube21
+    3300360: Room_Light:pCube22
+    3300362: Room_Light:pCube23
+    3300364: Room_Light:pCube24
+    3300366: Room_Light:pCube25
+    3300368: Room_Light:pCube26
+    3300370: Room_Light:pCube27
+    3300372: Room_Light:pCube3
+    3300374: Room_Light:pCube30
+    3300376: Room_Light:pCube31
+    3300378: Room_Light:pCube32
+    3300380: Room_Light:pCube33
+    3300382: Room_Light:pCube34
+    3300384: Room_Light:pCube35
+    3300386: Room_Light:pCube36
+    3300388: Room_Light:pCube37
+    3300390: Room_Light:pCube38
+    3300392: Room_Light:pCube39
+    3300394: Room_Light:pCube3CPSproxy1
+    3300396: Room_Light:pCube3CPSunite1
+    3300398: Room_Light:pCube4
+    3300400: Room_Light:pCube40
+    3300402: Room_Light:pCube41
+    3300404: Room_Light:pCube42
+    3300406: Room_Light:pCube43
+    3300408: Room_Light:pCube43 1
+    3300410: Room_Light:pCube44
+    3300412: Room_Light:pCube45
+    3300414: Room_Light:pCube46
+    3300416: Room_Light:pCube47
+    3300418: Room_Light:pCube48
+    3300420: Room_Light:pCube49
+    3300422: Room_Light:pCube5
+    3300424: Room_Light:pCube50
+    3300426: Room_Light:pCube51
+    3300428: Room_Light:pCube52
+    3300430: Room_Light:pCube53
+    3300432: Room_Light:pCube54
+    3300434: Room_Light:pCube55
+    3300436: Room_Light:pCube56
+    3300438: Room_Light:pCube57
+    3300440: Room_Light:pCube58
+    3300442: Room_Light:pCube59CPSunite1
+    3300444: Room_Light:pCube6
+    3300446: Room_Light:pCube7
+    3300448: Room_Light:pCube8
+    3300450: Room_Light:pCube9
+    3300452: Room_Light:pCylinder1
+    3300454: Room_Light:pCylinder10
+    3300456: Room_Light:pCylinder11
+    3300458: Room_Light:pCylinder12
+    3300460: Room_Light:pCylinder13
+    3300462: Room_Light:pCylinder14
+    3300464: Room_Light:pCylinder15
+    3300466: Room_Light:pCylinder16
+    3300468: Room_Light:pCylinder17
+    3300470: Room_Light:pCylinder18
+    3300472: Room_Light:pCylinder19
+    3300474: Room_Light:pCylinder19 1
+    3300476: Room_Light:pCylinder19 10
+    3300478: Room_Light:pCylinder19 11
+    3300480: Room_Light:pCylinder19 2
+    3300482: Room_Light:pCylinder19 3
+    3300484: Room_Light:pCylinder19 4
+    3300486: Room_Light:pCylinder19 5
+    3300488: Room_Light:pCylinder19 6
+    3300490: Room_Light:pCylinder19 7
+    3300492: Room_Light:pCylinder19 8
+    3300494: Room_Light:pCylinder19 9
+    3300496: Room_Light:pCylinder2
+    3300498: Room_Light:pCylinder20
+    3300500: Room_Light:pCylinder21
+    3300502: Room_Light:pCylinder22
+    3300504: Room_Light:pCylinder23
+    3300506: Room_Light:pCylinder24
+    3300508: Room_Light:pCylinder25
+    3300510: Room_Light:pCylinder26
+    3300512: Room_Light:pCylinder27
+    3300514: Room_Light:pCylinder28
+    3300516: Room_Light:pCylinder29
+    3300518: Room_Light:pCylinder3
+    3300520: Room_Light:pCylinder30
+    3300522: Room_Light:pCylinder31
+    3300524: Room_Light:pCylinder32
+    3300526: Room_Light:pCylinder33
+    3300528: Room_Light:pCylinder34
+    3300530: Room_Light:pCylinder35
+    3300532: Room_Light:pCylinder36
+    3300534: Room_Light:pCylinder37
+    3300536: Room_Light:pCylinder38
+    3300538: Room_Light:pCylinder39
+    3300540: Room_Light:pCylinder4
+    3300542: Room_Light:pCylinder40
+    3300544: Room_Light:pCylinder41
+    3300546: Room_Light:pCylinder42
+    3300548: Room_Light:pCylinder43
+    3300550: Room_Light:pCylinder44
+    3300552: Room_Light:pCylinder45
+    3300554: Room_Light:pCylinder46
+    3300556: Room_Light:pCylinder47
+    3300558: Room_Light:pCylinder48
+    3300560: Room_Light:pCylinder49
+    3300562: Room_Light:pCylinder5
+    3300564: Room_Light:pCylinder5 1
+    3300566: Room_Light:pCylinder50
+    3300568: Room_Light:pCylinder51
+    3300570: Room_Light:pCylinder52
+    3300572: Room_Light:pCylinder53
+    3300574: Room_Light:pCylinder54
+    3300576: Room_Light:pCylinder55
+    3300578: Room_Light:pCylinder56
+    3300580: Room_Light:pCylinder57
+    3300582: Room_Light:pCylinder57 1
+    3300584: Room_Light:pCylinder58
+    3300586: Room_Light:pCylinder58 1
+    3300588: Room_Light:pCylinder59
+    3300590: Room_Light:pCylinder59 1
+    3300592: Room_Light:pCylinder6
+    3300594: Room_Light:pCylinder60
+    3300596: Room_Light:pCylinder60 1
+    3300598: Room_Light:pCylinder61
+    3300600: Room_Light:pCylinder61 1
+    3300602: Room_Light:pCylinder62
+    3300604: Room_Light:pCylinder62 1
+    3300606: Room_Light:pCylinder63
+    3300608: Room_Light:pCylinder64
+    3300610: Room_Light:pCylinder65
+    3300612: Room_Light:pCylinder66
+    3300614: Room_Light:pCylinder7
+    3300616: Room_Light:pCylinder8
+    3300618: Room_Light:pCylinder9
+    3300620: Room_Light:polySurface10
+    3300622: Room_Light:polySurface11
+    3300624: Room_Light:polySurface12
+    3300626: Room_Light:polySurface13
+    3300628: Room_Light:polySurface14
+    3300630: Room_Light:polySurface15
+    3300632: Room_Light:polySurface16
+    3300634: Room_Light:polySurface17
+    3300636: Room_Light:polySurface2
+    3300638: Room_Light:polySurface20
+    3300640: Room_Light:polySurface21
+    3300642: Room_Light:polySurface22
+    3300644: Room_Light:polySurface23
+    3300646: Room_Light:polySurface24
+    3300648: Room_Light:polySurface25
+    3300650: Room_Light:polySurface26
+    3300652: Room_Light:polySurface27
+    3300654: Room_Light:polySurface28
+    3300656: Room_Light:polySurface29
+    3300658: Room_Light:polySurface3
+    3300660: Room_Light:polySurface30
+    3300662: Room_Light:polySurface31
+    3300664: Room_Light:polySurface33
+    3300666: Room_Light:polySurface34
+    3300668: Room_Light:polySurface35
+    3300670: Room_Light:polySurface36
+    3300672: Room_Light:polySurface37
+    3300674: Room_Light:polySurface39
+    3300676: Room_Light:polySurface39 1
+    3300678: Room_Light:polySurface4
+    3300680: Room_Light:polySurface4 1
+    3300682: Room_Light:polySurface5
+    3300684: Room_Light:polySurface5 1
+    3300686: Room_Light:polySurface6
+    3300688: Room_Light:polySurface7
+    3300690: Room_Light:polySurface8
+    3300692: Room_Light:polySurface9
+    3300694: Room_Light:pPlane1
+    3300696: Room_Light:pPlane2
+    3300698: Room_Light:pPlane4
+    3300700: Room_Light:pPlane5
+    3300702: Room_Light:pPlane6
+    3300704: Room_Light:pPlane7
+    3300706: Room_Light:pPlane8
+    3300708: Room_Light:pSphere1
+    3300710: Room_Light:pSphere1 1
+    3300712: Room_Light:pSphere2
+    3300714: Room_Light:pSphere2 1
+    3300716: Room_Light:pSphere3
+    3300718: Room_Light:pSphere4
+    3300720: Room_Light:pSphere5
+    3300722: Room_Light:pSphere5 1
+    3300724: Room_Light:pSphere5 10
+    3300726: Room_Light:pSphere5 2
+    3300728: Room_Light:pSphere5 3
+    3300730: Room_Light:pSphere5 4
+    3300732: Room_Light:pSphere5 5
+    3300734: Room_Light:pSphere5 6
+    3300736: Room_Light:pSphere5 7
+    3300738: Room_Light:pSphere5 8
+    3300740: Room_Light:pSphere5 9
+    3300742: Room_Light:pSphere6
+    3300744: Room_Light:pSphere7
+    3300746: Room_Light:pSphere8
+    3300748: Room_Light:pSphere9
+    3300750: Room_Light:pTorus1
+    3300752: Room_Light:pTorus1 1
+    3300754: Room_Light:pTorus10
+    3300756: Room_Light:pTorus11
+    3300758: Room_Light:pTorus12
+    3300760: Room_Light:pTorus13
+    3300762: Room_Light:pTorus14
+    3300764: Room_Light:pTorus15
+    3300766: Room_Light:pTorus16
+    3300768: Room_Light:pTorus17
+    3300770: Room_Light:pTorus18
+    3300772: Room_Light:pTorus19
+    3300774: Room_Light:pTorus2
+    3300776: Room_Light:pTorus2 1
+    3300778: Room_Light:pTorus20
+    3300780: Room_Light:pTorus21
+    3300782: Room_Light:pTorus22
+    3300784: Room_Light:pTorus23
+    3300786: Room_Light:pTorus24
+    3300788: Room_Light:pTorus25
+    3300790: Room_Light:pTorus26
+    3300792: Room_Light:pTorus27
+    3300794: Room_Light:pTorus28
+    3300796: Room_Light:pTorus29
+    3300798: Room_Light:pTorus3
+    3300800: Room_Light:pTorus3 1
+    3300802: Room_Light:pTorus30
+    3300804: Room_Light:pTorus31
+    3300806: Room_Light:pTorus32
+    3300808: Room_Light:pTorus33
+    3300810: Room_Light:pTorus34
+    3300812: Room_Light:pTorus35
+    3300814: Room_Light:pTorus36
+    3300816: Room_Light:pTorus37
+    3300818: Room_Light:pTorus38
+    3300820: Room_Light:pTorus38 1
+    3300822: Room_Light:pTorus39
+    3300824: Room_Light:pTorus39 1
+    3300826: Room_Light:pTorus4
+    3300828: Room_Light:pTorus4 1
+    3300830: Room_Light:pTorus40
+    3300832: Room_Light:pTorus40 1
+    3300834: Room_Light:pTorus41
+    3300836: Room_Light:pTorus41 1
+    3300838: Room_Light:pTorus42
+    3300840: Room_Light:pTorus42 1
+    3300842: Room_Light:pTorus43
+    3300844: Room_Light:pTorus43 1
+    3300846: Room_Light:pTorus5
+    3300848: Room_Light:pTorus5 1
+    3300850: Room_Light:pTorus6
+    3300852: Room_Light:pTorus6 1
+    3300854: Room_Light:pTorus7
+    3300856: Room_Light:pTorus7 1
+    3300858: Room_Light:pTorus8
+    3300860: Room_Light:pTorus8 1
+    3300862: Room_Light:pTorus9
+    3300864: Room_Light:pTorus9 1
+    3300866: Room_Light:Pulli
+    3300868: Room_Light:rahmen
+    3300870: Room_Light:rahmen 1
+    3300872: Room_Light:raum
+    3300874: Room_Light:RaumPulli
+    3300876: Room_Light:RaumSocke
+    3300878: Room_Light:RaumSocke02
+    3300880: Room_Light:Scharnier
+    3300882: Room_Light:Scharnier 1
+    3300884: Room_Light:Scharnier1
+    3300886: Room_Light:Scharnier1 1
+    3300888: Room_Light:Schirm
+    3300890: Room_Light:Schrim
+    3300892: Room_Light:Schulheft
+    3300894: Room_Light:Schulheft1
+    3300896: Room_Light:Schulheft2
+    3300898: Room_Light:Schulheft3
+    3300900: Room_Light:Schulheft4
+    3300902: Room_Light:shoe_l_smooth
+    3300904: Room_Light:shoe_r_smooth
+    3300906: Room_Light:Socke
+    3300908: Room_Light:Socke1
+    3300910: Room_Light:Steckdose
+    3300912: Room_Light:syCloth90ShapeTrf
+    3300914: Room_Light:Teppich
+    3300916: Room_Light:Unterlage
+    3300918: Room_Light:Wuerfel01
+    3300920: Room_Light:Wuerfel02
+    4300000: Room_Light:pCylinder1
+    4300002: Room_Light:pCube1
+    4300004: Room_Light:pCylinder2
+    4300006: Room_Light:pSphere1
+    4300008: Room_Light:pSphere2
+    4300010: Room_Light:pCylinder3
+    4300012: Room_Light:pCube2
+    4300014: Room_Light:pCylinder4
+    4300016: Room_Light:pSphere3
+    4300018: Room_Light:pSphere4
+    4300020: Room_Light:polySurface2
+    4300022: Room_Light:pCube3
+    4300024: Room_Light:pCube3CPSproxy1
+    4300026: Room_Light:pPlane6
+    4300028: Room_Light:Decke_Smooth
+    4300030: Room_Light:Decke_Base
+    4300032: Room_Light:Laken_Smooth
+    4300034: Room_Light:pCube3CPSunite1
+    4300036: Room_Light:Kissen_SMooth
+    4300038: Room_Light:pCube59CPSunite1
+    4300040: Room_Light:Kissen_Base
+    4300042: Room_Light:polySurface37
+    4300044: Room_Light:Socke1
+    4300046: Room_Light:polySurface4
+    4300048: Room_Light:pCylinder5
+    4300050: Room_Light:pTorus1
+    4300052: Room_Light:pTorus2
+    4300054: Room_Light:pTorus3
+    4300056: Room_Light:pTorus4
+    4300058: Room_Light:pTorus5
+    4300060: Room_Light:pTorus6
+    4300062: Room_Light:pTorus7
+    4300064: Room_Light:polySurface5
+    4300066: Room_Light:pTorus8
+    4300068: Room_Light:pTorus9
+    4300070: Room_Light:polySurface4
+    4300072: Room_Light:pCylinder5
+    4300074: Room_Light:pTorus1
+    4300076: Room_Light:pTorus2
+    4300078: Room_Light:pTorus3
+    4300080: Room_Light:pTorus4
+    4300082: Room_Light:pTorus5
+    4300084: Room_Light:pTorus6
+    4300086: Room_Light:pTorus7
+    4300088: Room_Light:polySurface5
+    4300090: Room_Light:pTorus8
+    4300092: Room_Light:pTorus9
+    4300094: Room_Light:polySurface3
+    4300096: Room_Light:pCube13
+    4300098: Room_Light:pCube12
+    4300100: Room_Light:pCube11
+    4300102: Room_Light:pCube9
+    4300104: Room_Light:pCube8
+    4300106: Room_Light:pCube7
+    4300108: Room_Light:pCube6
+    4300110: Room_Light:pCube5
+    4300112: Room_Light:pCube4
+    4300114: Room_Light:pCube14
+    4300116: Room_Light:pCube16
+    4300118: Room_Light:pCube10
+    4300120: Room_Light:pCube17
+    4300122: Room_Light:pCube18
+    4300124: Room_Light:pCube19
+    4300126: Room_Light:nurbsToPoly1
+    4300128: Room_Light:pCube20
+    4300130: Room_Light:pCube19
+    4300132: Room_Light:nurbsToPoly1
+    4300134: Room_Light:pCube21
+    4300136: Room_Light:pCube19
+    4300138: Room_Light:nurbsToPoly1
+    4300140: Room_Light:pCube22
+    4300142: Room_Light:pCube19
+    4300144: Room_Light:nurbsToPoly1
+    4300146: Room_Light:pCube23
+    4300148: Room_Light:pCube24
+    4300150: Room_Light:pCube25
+    4300152: Room_Light:pCube26
+    4300154: Room_Light:pCylinder32
+    4300156: Room_Light:pCylinder33
+    4300158: Room_Light:pCylinder34
+    4300160: Room_Light:buch
+    4300162: Room_Light:buch1
+    4300164: Room_Light:buch2
+    4300166: Room_Light:buch3
+    4300168: Room_Light:pCylinder35
+    4300170: Room_Light:pCylinder36
+    4300172: Room_Light:pCylinder19
+    4300174: Room_Light:pSphere5
+    4300176: Room_Light:Murmel06
+    4300178: Room_Light:Murmel08
+    4300180: Room_Light:Murmel09
+    4300182: Room_Light:Murmel010
+    4300184: Room_Light:Murmel011
+    4300186: Room_Light:Unterlage
+    4300188: Room_Light:Blatt01
+    4300190: Room_Light:Blatt02
+    4300192: Room_Light:Blatt03
+    4300194: Room_Light:Blatt04
+    4300196: Room_Light:Blatt05
+    4300198: Room_Light:becher1
+    4300200: Room_Light:Murmel01
+    4300202: Room_Light:Murmel02
+    4300204: Room_Light:Murmel03
+    4300206: Room_Light:Murmel04
+    4300208: Room_Light:Murmel05
+    4300210: Room_Light:Murmel07
+    4300212: Room_Light:pCylinder19
+    4300214: Room_Light:pSphere5
+    4300216: Room_Light:pCylinder31
+    4300218: Room_Light:pCylinder19
+    4300220: Room_Light:pSphere5
+    4300222: Room_Light:becher
+    4300224: Room_Light:pCylinder19
+    4300226: Room_Light:pSphere5
+    4300228: Room_Light:pCylinder19
+    4300230: Room_Light:pSphere5
+    4300232: Room_Light:pCylinder19
+    4300234: Room_Light:pSphere5
+    4300236: Room_Light:pCylinder19
+    4300238: Room_Light:pSphere5
+    4300240: Room_Light:pCylinder19
+    4300242: Room_Light:pCylinder20
+    4300244: Room_Light:pCylinder21
+    4300246: Room_Light:pCylinder22
+    4300248: Room_Light:pCylinder23
+    4300250: Room_Light:pCylinder24
+    4300252: Room_Light:pCylinder19
+    4300254: Room_Light:pSphere5
+    4300256: Room_Light:pCylinder19
+    4300258: Room_Light:pSphere5
+    4300260: Room_Light:pCylinder19
+    4300262: Room_Light:pSphere5
+    4300264: Room_Light:pCylinder19
+    4300266: Room_Light:pSphere5
+    4300268: Room_Light:pCylinder25
+    4300270: Room_Light:pCylinder26
+    4300272: Room_Light:pCylinder27
+    4300274: Room_Light:pCylinder28
+    4300276: Room_Light:pCylinder29
+    4300278: Room_Light:pCylinder30
+    4300280: Room_Light:Blatt06
+    4300282: Room_Light:pCylinder37
+    4300284: Room_Light:polySurface21
+    4300286: Room_Light:polySurface22
+    4300288: Room_Light:pCylinder38
+    4300290: Room_Light:pCylinder39
+    4300292: Room_Light:pCylinder40
+    4300294: Room_Light:pCylinder41
+    4300296: Room_Light:pCylinder42
+    4300298: Room_Light:pCylinder43
+    4300300: Room_Light:polySurface23
+    4300302: Room_Light:polySurface24
+    4300304: Room_Light:polySurface25
+    4300306: Room_Light:polySurface26
+    4300308: Room_Light:pCylinder44
+    4300310: Room_Light:pCylinder45
+    4300312: Room_Light:pCylinder46
+    4300314: Room_Light:pCylinder47
+    4300316: Room_Light:polySurface27
+    4300318: Room_Light:polySurface28
+    4300320: Room_Light:pCylinder48
+    4300322: Room_Light:pCylinder49
+    4300324: Room_Light:pCylinder50
+    4300326: Room_Light:Schirm
+    4300328: Room_Light:pCylinder51
+    4300330: Room_Light:glas
+    4300332: Room_Light:nurbsToPoly12
+    4300334: Room_Light:pCylinder52
+    4300336: Room_Light:pCylinder53
+    4300338: Room_Light:pCylinder54
+    4300340: Room_Light:nurbsToPoly13
+    4300342: Room_Light:polySurface29
+    4300344: Room_Light:nurbsToPoly14
+    4300346: Room_Light:nurbsToPoly15
+    4300348: Room_Light:Farbtopf01
+    4300350: Room_Light:Farbtopf02
+    4300352: Room_Light:Farbtopf03
+    4300354: Room_Light:Farbtopf04
+    4300356: Room_Light:Farbtopf05
+    4300358: Room_Light:Schulheft
+    4300360: Room_Light:Schulheft1
+    4300362: Room_Light:Schulheft2
+    4300364: Room_Light:Schulheft3
+    4300366: Room_Light:Schulheft4
+    4300368: Room_Light:Papierkorb
+    4300370: Room_Light:pPlane8
+    4300372: Room_Light:polySurface6
+    4300374: Room_Light:polySurface7
+    4300376: Room_Light:polySurface8
+    4300378: Room_Light:polySurface9
+    4300380: Room_Light:polySurface10
+    4300382: Room_Light:polySurface15
+    4300384: Room_Light:Fassung
+    4300386: Room_Light:rahmen
+    4300388: Room_Light:glas
+    4300390: Room_Light:fassung
+    4300392: Room_Light:griff
+    4300394: Room_Light:Scharnier
+    4300396: Room_Light:Scharnier1
+    4300398: Room_Light:Collider1
+    4300400: Room_Light:Collider
+    4300402: Room_Light:rahmen
+    4300404: Room_Light:glas
+    4300406: Room_Light:fassung
+    4300408: Room_Light:griff
+    4300410: Room_Light:Scharnier
+    4300412: Room_Light:Scharnier1
+    4300414: Room_Light:nurbsToPoly4
+    4300416: Room_Light:nurbsToPoly3
+    4300418: Room_Light:polySurface13
+    4300420: Room_Light:polySurface12
+    4300422: Room_Light:pCylinder6
+    4300424: Room_Light:pTorus10
+    4300426: Room_Light:pTorus11
+    4300428: Room_Light:pTorus12
+    4300430: Room_Light:pTorus13
+    4300432: Room_Light:pTorus14
+    4300434: Room_Light:pTorus15
+    4300436: Room_Light:pTorus16
+    4300438: Room_Light:pTorus17
+    4300440: Room_Light:pTorus18
+    4300442: Room_Light:pTorus19
+    4300444: Room_Light:pTorus20
+    4300446: Room_Light:pTorus21
+    4300448: Room_Light:pTorus22
+    4300450: Room_Light:pTorus23
+    4300452: Room_Light:pTorus24
+    4300454: Room_Light:pTorus25
+    4300456: Room_Light:pTorus26
+    4300458: Room_Light:pTorus27
+    4300460: Room_Light:pTorus28
+    4300462: Room_Light:pTorus29
+    4300464: Room_Light:pTorus30
+    4300466: Room_Light:pTorus31
+    4300468: Room_Light:pTorus32
+    4300470: Room_Light:pTorus33
+    4300472: Room_Light:pTorus34
+    4300474: Room_Light:pTorus35
+    4300476: Room_Light:pTorus36
+    4300478: Room_Light:pTorus37
+    4300480: Room_Light:Gardine_base
+    4300482: Room_Light:GardineR
+    4300484: Room_Light:pPlane1
+    4300486: Room_Light:GardineL
+    4300488: Room_Light:polySurface11
+    4300490: Room_Light:pCylinder12
+    4300492: Room_Light:pCylinder11
+    4300494: Room_Light:pCylinder10
+    4300496: Room_Light:pCylinder9
+    4300498: Room_Light:pCylinder8
+    4300500: Room_Light:pCylinder7
+    4300502: Room_Light:pCube30
+    4300504: Room_Light:nurbsToPoly11
+    4300506: Room_Light:nurbsToPoly10
+    4300508: Room_Light:nurbsToPoly9
+    4300510: Room_Light:nurbsToPoly8
+    4300512: Room_Light:nurbsToPoly7
+    4300514: Room_Light:polySurface14
+    4300516: Room_Light:nurbsToPoly6
+    4300518: Room_Light:pCylinder16
+    4300520: Room_Light:pCylinder15
+    4300522: Room_Light:nurbsToPoly5
+    4300524: Room_Light:pCylinder14
+    4300526: Room_Light:pCylinder13
+    4300528: Room_Light:Pulli
+    4300530: Room_Light:RaumSocke02
+    4300532: Room_Light:RaumSocke
+    4300534: Room_Light:Nadel011
+    4300536: Room_Light:Nadel010
+    4300538: Room_Light:Nadel09
+    4300540: Room_Light:Nadel08
+    4300542: Room_Light:pPlane2
+    4300544: Room_Light:Nadel07
+    4300546: Room_Light:Nadel06
+    4300548: Room_Light:Nadel05
+    4300550: Room_Light:Nadel04
+    4300552: Room_Light:pPlane5
+    4300554: Room_Light:Nadel03
+    4300556: Room_Light:Nadel02
+    4300558: Room_Light:Nadel01
+    4300560: Room_Light:pPlane4
+    4300562: Room_Light:pCube31
+    4300564: Room_Light:pCube32
+    4300566: Room_Light:pCube33
+    4300568: Room_Light:pCube34
+    4300570: Room_Light:pCube35
+    4300572: Room_Light:pCube41
+    4300574: Room_Light:pCube40
+    4300576: Room_Light:pCube36
+    4300578: Room_Light:pCube37
+    4300580: Room_Light:pCube38
+    4300582: Room_Light:pCube39
+    4300584: Room_Light:polySurface17
+    4300586: Room_Light:polySurface16
+    4300588: Room_Light:pCube27
+    4300590: Room_Light:polySurface20
+    4300592: Room_Light:griff1
+    4300594: Room_Light:pCylinder17
+    4300596: Room_Light:pCylinder18
+    4300598: Room_Light:nurbsToPoly2
+    4300600: Room_Light:pCube42
+    4300602: Room_Light:Buch01
+    4300604: Room_Light:Buch02
+    4300606: Room_Light:Buch03
+    4300608: Room_Light:Buch04
+    4300610: Room_Light:becher2
+    4300612: Room_Light:Farbtopf06
+    4300614: Room_Light:Socke
+    4300616: Room_Light:polySurface30
+    4300618: Room_Light:polySurface31
+    4300620: Room_Light:Buch05
+    4300622: Room_Light:Buch06
+    4300624: Room_Light:Buch07
+    4300626: Room_Light:Buch08
+    4300628: Room_Light:Buch09
+    4300630: Room_Light:Buch010
+    4300632: Room_Light:hand_l_smooth
+    4300634: Room_Light:Body_smooth
+    4300636: Room_Light:shoe_l_smooth
+    4300638: Room_Light:shoe_r_smooth
+    4300640: Room_Light:Hand_r_smooth
+    4300642: Room_Light:Halstuch_smooth
+    4300644: Room_Light:Head_baseCPSproxy1
+    4300646: Room_Light:pSphere1
+    4300648: Room_Light:pSphere2
+    4300650: Room_Light:Halstuchhalter
+    4300652: Room_Light:Farbtopf07
+    4300654: Room_Light:Murmel012
+    4300656: Room_Light:syCloth90ShapeTrf
+    4300658: Room_Light:pCube47
+    4300660: Room_Light:pCube46
+    4300662: Room_Light:pCube45
+    4300664: Room_Light:pCube44
+    4300666: Room_Light:nurbsToPoly19
+    4300668: Room_Light:nurbsToPoly18
+    4300670: Room_Light:nurbsToPoly17
+    4300672: Room_Light:pCube43
+    4300674: Room_Light:nurbsToPoly16
+    4300676: Room_Light:nurbsToPoly19
+    4300678: Room_Light:nurbsToPoly18
+    4300680: Room_Light:nurbsToPoly17
+    4300682: Room_Light:pCube43
+    4300684: Room_Light:nurbsToPoly16
+    4300686: Room_Light:Schrim
+    4300688: Room_Light:Glas
+    4300690: Room_Light:nurbsToPoly20
+    4300692: Room_Light:pCylinder55
+    4300694: Room_Light:nurbsToPoly24
+    4300696: Room_Light:nurbsToPoly25
+    4300698: Room_Light:pCube48
+    4300700: Room_Light:pCube49
+    4300702: Room_Light:pCube50
+    4300704: Room_Light:pCube51
+    4300706: Room_Light:pCube53
+    4300708: Room_Light:pCube55
+    4300710: Room_Light:pCube56
+    4300712: Room_Light:polySurface35
+    4300714: Room_Light:polySurface33
+    4300716: Room_Light:pCube52
+    4300718: Room_Light:pCube54
+    4300720: Room_Light:polySurface34
+    4300722: Room_Light:pCylinder56
+    4300724: Room_Light:nurbsToPoly26
+    4300726: Room_Light:polySurface36
+    4300728: Room_Light:nurbsToPoly27
+    4300730: Room_Light:nurbsToPoly28
+    4300732: Room_Light:pCube57
+    4300734: Room_Light:pCube58
+    4300736: Room_Light:nurbsToPoly1
+    4300738: Room_Light:nurbsToPoly2
+    4300740: Room_Light:nurbsToPoly3
+    4300742: Room_Light:nurbsToPoly4
+    4300744: Room_Light:nurbsToPoly5
+    4300746: Room_Light:nurbsToPoly6
+    4300748: Room_Light:nurbsToPoly7
+    4300750: Room_Light:nurbsToPoly8
+    4300752: Room_Light:nurbsToPoly9
+    4300754: Room_Light:nurbsToPoly10
+    4300756: Room_Light:nurbsToPoly11
+    4300758: Room_Light:nurbsToPoly12
+    4300760: Room_Light:nurbsToPoly13
+    4300762: Room_Light:nurbsToPoly14
+    4300764: Room_Light:nurbsToPoly15
+    4300766: Room_Light:nurbsToPoly16
+    4300768: Room_Light:nurbsToPoly17
+    4300770: Room_Light:nurbsToPoly18
+    4300772: Room_Light:nurbsToPoly19
+    4300774: Room_Light:nurbsToPoly20
+    4300776: Room_Light:nurbsToPoly21
+    4300778: Room_Light:nurbsToPoly22
+    4300780: Room_Light:nurbsToPoly23
+    4300782: Room_Light:nurbsToPoly24
+    4300784: Room_Light:nurbsToPoly1
+    4300786: Room_Light:nurbsToPoly2
+    4300788: Room_Light:nurbsToPoly3
+    4300790: Room_Light:nurbsToPoly4
+    4300792: Room_Light:nurbsToPoly5
+    4300794: Room_Light:nurbsToPoly6
+    4300796: Room_Light:nurbsToPoly7
+    4300798: Room_Light:nurbsToPoly8
+    4300800: Room_Light:nurbsToPoly9
+    4300802: Room_Light:nurbsToPoly10
+    4300804: Room_Light:nurbsToPoly11
+    4300806: Room_Light:nurbsToPoly12
+    4300808: Room_Light:nurbsToPoly13
+    4300810: Room_Light:nurbsToPoly14
+    4300812: Room_Light:nurbsToPoly15
+    4300814: Room_Light:nurbsToPoly16
+    4300816: Room_Light:nurbsToPoly17
+    4300818: Room_Light:nurbsToPoly18
+    4300820: Room_Light:nurbsToPoly19
+    4300822: Room_Light:nurbsToPoly20
+    4300824: Room_Light:nurbsToPoly21
+    4300826: Room_Light:nurbsToPoly22
+    4300828: Room_Light:nurbsToPoly23
+    4300830: Room_Light:nurbsToPoly24
+    4300832: Room_Light:pSphere6
+    4300834: Room_Light:pSphere7
+    4300836: Room_Light:pTorus38
+    4300838: Room_Light:pTorus39
+    4300840: Room_Light:pTorus40
+    4300842: Room_Light:pCylinder57
+    4300844: Room_Light:pCylinder58
+    4300846: Room_Light:polySurface39
+    4300848: Room_Light:pCylinder59
+    4300850: Room_Light:pTorus41
+    4300852: Room_Light:pTorus42
+    4300854: Room_Light:pTorus43
+    4300856: Room_Light:pCylinder60
+    4300858: Room_Light:pCylinder61
+    4300860: Room_Light:pCylinder62
+    4300862: Room_Light:pTorus38
+    4300864: Room_Light:pTorus39
+    4300866: Room_Light:pTorus40
+    4300868: Room_Light:pCylinder57
+    4300870: Room_Light:pCylinder58
+    4300872: Room_Light:polySurface39
+    4300874: Room_Light:pCylinder59
+    4300876: Room_Light:pTorus41
+    4300878: Room_Light:pTorus42
+    4300880: Room_Light:pTorus43
+    4300882: Room_Light:pCylinder60
+    4300884: Room_Light:pCylinder61
+    4300886: Room_Light:pCylinder62
+    4300888: Room_Light:pCylinder63
+    4300890: Room_Light:pPlane7
+    4300892: Room_Light:pCylinder64
+    4300894: Room_Light:pSphere8
+    4300896: Room_Light:pSphere9
+    4300898: Room_Light:Teppich
+    4300900: Room_Light:Himmel
+    4300902: Room_Light:Mond
+    4300904: Room_Light:Wuerfel02
+    4300906: Room_Light:Wuerfel01
+    4300908: Room_Light:Steckdose
+    4300910: Room_Light:Ball
+    4300912: Room_Light:RaumPulli
+    4300914: Room_Light:raum
+    4300916: Room_Light:pCylinder66
+    4300918: Room_Light:pCylinder65
+    4300920: Room_Light:mohawkDeepRed1Main
+    7400000: Take 001
+    9500000: //RootNode
+    10800000: Room_Light:BodenLicht
+    10800002: Room_Light:DunkelUntermBett
+    10800004: Room_Light:LampeLicht
+    10800006: Room_Light:LampenSchatten
+    10800008: Room_Light:pointLight1
+    10800010: Room_Light:pointLight10
+    10800012: Room_Light:pointLight11
+    10800014: Room_Light:pointLight12
+    10800016: Room_Light:pointLight13
+    10800018: Room_Light:pointLight14
+    10800020: Room_Light:pointLight15
+    10800022: Room_Light:pointLight3
+    10800024: Room_Light:pointLight5
+    10800026: Room_Light:pointLight6
+    10800028: Room_Light:pointLight7
+    10800030: Room_Light:pointLight9
+    10800032: Room_Light:spotLight4
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
